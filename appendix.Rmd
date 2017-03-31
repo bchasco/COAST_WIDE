@@ -1,0 +1,152 @@
+---
+output:
+  word_document: default
+---
+<STYLE TYPE="text/css">
+<!--
+  td{
+    font-family: Arial; 
+    font-size: 4pt;
+    padding:0px;
+    cellpadding="0";
+    cellspacing="0"
+  }
+  th {
+    font-family: Arial; 
+    font-size: 4pt;
+    height: 20px;
+    font-weight: bold;
+    text-align: right;
+    background-color: #ccccff;
+  }
+  table { 
+    border-spacing: 0px;
+    border-collapse: collapse;
+  }
+--->
+</STYLE>
+
+```{r, echo=FALSE}
+rm(list=ls())
+
+ls()
+#Dimensions of the model
+nAreas = 9 #Number of areas
+nTime = 12 #Number of time steps - 12 months
+nDays = c(31,28.25,31,30,31,30,31,31,30,31,30,31) #Number of days in each time-step (i.e., month)
+nYear = 46 #Number of years in the study
+nAges = 6 #the number of ages
+nOrigin = 2 #Hatchery or wild 
+nRun = 9 #Spring, Summer, Fall, Winter, 9 is the junk category with mixed runs and unknowns
+nPred = 4 #The number of predators
+nSex = 2 #1=Male, 2=Female
+predAges = 25
+
+#How many time-step are smolts allowed to stay in natal areas
+smoltLAG = 2
+
+
+#Names of the array dimensions
+tNames = c('May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar','Apr')
+originNames = c("Hatchery", "Wild")
+runNames = c("Spring","Summmer","Fall","Winter","","","","","Other")
+predNames = c("KW", "HS", "CSL", "SSL")
+predNamesLong = c("Resident \n killer whales",'Harbor seals (000)', 'California \n sea lions (000)', 'Steller \n sea lions (000)')
+sexNames = c("Male","Female")
+areaNames = c("Cen.CA", "N.CA/OR", "Col.Riv.", "WA", "Sal.Sea", "WVI/N.BC", "SEAK", "WAK", "Bk.Box")
+areaNamesLong = c("Central \n California", "NorCal \n Oregon", "Columbia \n River", "Washington", "Salish Sea", "WCVI \n NorBC", "Southeast \n Alaska", "Western \n Alaska", "Black box")
+
+ptm <- proc.time()
+
+runMCChain = FALSE
+if(runMCChain == TRUE )
+  nSim = 50
+if(runMCChain ==FALSE)
+  nSim = 1
+
+mycv = c(0.2)
+MC_Ncv = 0.15
+MC_SELcv = 0.5
+MC_FECcv = 0.5
+MC_ALPHAcv = 0.2
+MC_SMTLcv = 0.3
+MC_CCONDcv = 0.2 #Fish condition, change in create_EChromta
+
+simBC_cspjya = array(NA,c(length(mycv),nSim,nPred,nAreas,nYear,nAges))
+simNC_cspjya = array(NA,c(length(mycv),nSim,nPred,nAreas,nYear,nAges))
+simYears = c(41:46)
+
+cvCnt = 1
+for(icv in mycv){
+  for(iSim in 1:nSim)
+  {
+    #Create the predator abundance by sex and age
+    source("Create_Nphyis.r") #Abundance
+  }
+  cvCnt = cvCnt + 1
+}  
+```
+#Appendix
+
+##Population abundance
+
+Table xx. Estimated killer whale abundance from 1970-2015
+```{r, comment=NA, echo=FALSE, caption=""}
+library(knitr)
+library(xtable)
+x = round(t(N_phy[1,5:8,]),0)
+colnames(x) = areaNames[5:8]
+rownames(x) = 1970:2015
+print(x)
+```
+
+
+Table xx. Estimated harbor seal abundance from 1970-2015
+```{r, comment=NA, echo=FALSE, caption=""}
+library(knitr)
+library(xtable)
+x = round(t(N_phy[2,1:8,]),0)
+colnames(x) = areaNames[1:8]
+rownames(x) = 1970:2015
+print(x)
+```
+
+
+Table xx. Estimated California sea lion abundance from 1970-2015
+```{r, comment=NA, echo=FALSE, caption=""}
+library(knitr)
+library(xtable)
+x = round(t(N_phy[3,1:8,]),0)
+colnames(x) = areaNames[1:8]
+rownames(x) = 1970:2015
+print(x)
+```
+
+Table xx. Estimated Steller sea lion abundance from 1970-2015
+```{r, comment=NA, echo=FALSE, caption=""}
+library(knitr)
+library(xtable)
+x = round(t(N_phy[3,1:8,]),0)
+colnames(x) = areaNames[1:8]
+rownames(x) = 1970:2015
+print(x)
+```
+
+##Age and sex ratio.
+
+Table xx.  The estimated ratio of females in the predator populations during 2015.
+```{r, comment=NA, echo=FALSE, caption=""}
+mm = apply(N_phyis[,,46,,1],c(1,2), sum)
+ff = apply(N_phyis[,,46,,2],c(1,2), sum)
+xx = ff/(ff+mm)
+colnames(xx) = areaNames
+print(t(round(xx[,1:8],2)))
+```
+
+Table xx.  The estimated ratio of females in the predator populations during 2015.
+```{r, comment=NA, echo=FALSE, caption=""}
+aa = apply(N_phyis[,,46,,],c(1,3), sum)
+aa = aa/rowSums(aa)
+#colnames(xx) = areaNames
+print(t(round(aa,2)))
+```

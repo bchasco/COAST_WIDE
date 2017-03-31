@@ -1,0 +1,1752 @@
+Year,Area,River,run,escapement,areaID,runID,rivID
+1976,ColRiver,Above Bonneville,Spring,14357,3,1,1
+1977,ColRiver,Above Bonneville,Spring,14357,3,1,1
+1978,ColRiver,Above Bonneville,Spring,14357,3,1,1
+1979,ColRiver,Above Bonneville,Spring,14357,3,1,1
+1980,ColRiver,Above Bonneville,Spring,14357,3,1,1
+1981,ColRiver,Above Bonneville,Spring,26365,3,1,1
+1982,ColRiver,Above Bonneville,Spring,26365,3,1,1
+1983,ColRiver,Above Bonneville,Spring,26365,3,1,1
+1984,ColRiver,Above Bonneville,Spring,26365,3,1,1
+1985,ColRiver,Above Bonneville,Spring,26365,3,1,1
+1986,ColRiver,Above Bonneville,Spring,38810,3,1,1
+1987,ColRiver,Above Bonneville,Spring,38810,3,1,1
+1988,ColRiver,Above Bonneville,Spring,38810,3,1,1
+1989,ColRiver,Above Bonneville,Spring,38810,3,1,1
+1990,ColRiver,Above Bonneville,Spring,38810,3,1,1
+1991,ColRiver,Above Bonneville,Spring,21284,3,1,1
+1992,ColRiver,Above Bonneville,Spring,21284,3,1,1
+1993,ColRiver,Above Bonneville,Spring,21284,3,1,1
+1994,ColRiver,Above Bonneville,Spring,21284,3,1,1
+1995,ColRiver,Above Bonneville,Spring,21284,3,1,1
+1996,ColRiver,Above Bonneville,Spring,9089,3,1,1
+1997,ColRiver,Above Bonneville,Spring,50229,3,1,1
+1998,ColRiver,Above Bonneville,Spring,17110,3,1,1
+1999,ColRiver,Above Bonneville,Spring,10017,3,1,1
+2000,ColRiver,Above Bonneville,Spring,51435,3,1,1
+2001,ColRiver,Above Bonneville,Spring,222102,3,1,1
+2002,ColRiver,Above Bonneville,Spring,117924,3,1,1
+2003,ColRiver,Above Bonneville,Spring,100177,3,1,1
+2004,ColRiver,Above Bonneville,Spring,91279,3,1,1
+2005,ColRiver,Above Bonneville,Spring,49277,3,1,1
+2006,ColRiver,Above Bonneville,Spring,41312,3,1,1
+2007,ColRiver,Above Bonneville,Spring,41360,3,1,1
+2008,ColRiver,Above Bonneville,Spring,94038,3,1,1
+2009,ColRiver,Above Bonneville,Spring,83413,3,1,1
+2010,ColRiver,Above Bonneville,Spring,149652,3,1,1
+2011,ColRiver,Above Bonneville,Spring,115279,3,1,1
+2012,ColRiver,Above Bonneville,Spring,95249,3,1,1
+2013,ColRiver,Above Bonneville,Spring,52804,3,1,1
+2014,ColRiver,Above Bonneville,Spring,106661,3,1,1
+2015,ColRiver,Above Bonneville,Spring,133360,3,1,1
+1971,ColRiver,Below Bonneville,Summer,19900,3,2,2
+1972,ColRiver,Below Bonneville,Summer,19900,3,2,2
+1973,ColRiver,Below Bonneville,Summer,19900,3,2,2
+1974,ColRiver,Below Bonneville,Summer,19900,3,2,2
+1975,ColRiver,Below Bonneville,Summer,19900,3,2,2
+1976,ColRiver,Below Bonneville,Summer,25856,3,2,2
+1977,ColRiver,Below Bonneville,Summer,25856,3,2,2
+1978,ColRiver,Below Bonneville,Summer,25856,3,2,2
+1979,ColRiver,Below Bonneville,Summer,25856,3,2,2
+1980,ColRiver,Below Bonneville,Summer,25856,3,2,2
+1981,ColRiver,Below Bonneville,Summer,18666,3,2,2
+1982,ColRiver,Below Bonneville,Summer,18666,3,2,2
+1983,ColRiver,Below Bonneville,Summer,18666,3,2,2
+1984,ColRiver,Below Bonneville,Summer,18666,3,2,2
+1985,ColRiver,Below Bonneville,Summer,18666,3,2,2
+1986,ColRiver,Below Bonneville,Summer,6100,3,2,2
+1987,ColRiver,Below Bonneville,Summer,6100,3,2,2
+1988,ColRiver,Below Bonneville,Summer,6100,3,2,2
+1989,ColRiver,Below Bonneville,Summer,6100,3,2,2
+1990,ColRiver,Below Bonneville,Summer,6100,3,2,2
+1991,ColRiver,Below Bonneville,Summer,11160,3,2,2
+1992,ColRiver,Below Bonneville,Summer,11160,3,2,2
+1993,ColRiver,Below Bonneville,Summer,11160,3,2,2
+1994,ColRiver,Below Bonneville,Summer,11160,3,2,2
+1995,ColRiver,Below Bonneville,Summer,11160,3,2,2
+1996,ColRiver,Below Bonneville,Summer,9000,3,2,2
+1997,ColRiver,Below Bonneville,Summer,13300,3,2,2
+1998,ColRiver,Below Bonneville,Summer,5955,3,2,2
+1999,ColRiver,Below Bonneville,Summer,17826,3,2,2
+2000,ColRiver,Below Bonneville,Summer,10342,3,2,2
+2001,ColRiver,Below Bonneville,Summer,41726,3,2,2
+2002,ColRiver,Below Bonneville,Summer,75505,3,2,2
+2003,ColRiver,Below Bonneville,Summer,84829,3,2,2
+2004,ColRiver,Below Bonneville,Summer,83016,3,2,2
+2005,ColRiver,Below Bonneville,Summer,36644,3,2,2
+2006,ColRiver,Below Bonneville,Summer,11820,3,2,2
+2007,ColRiver,Below Bonneville,Summer,8769,3,2,2
+2008,ColRiver,Below Bonneville,Summer,36487,3,2,2
+2009,ColRiver,Below Bonneville,Summer,17783,3,2,2
+2010,ColRiver,Below Bonneville,Summer,50122,3,2,2
+2011,ColRiver,Below Bonneville,Summer,27375,3,2,2
+2012,ColRiver,Below Bonneville,Summer,31318,3,2,2
+2013,ColRiver,Below Bonneville,Summer,26381,3,2,2
+2014,ColRiver,Below Bonneville,Summer,40767,3,2,2
+2015,ColRiver,Below Bonneville,Summer,19930,3,2,2
+1971,ColRiver,Below Bonneville,Fall,92400,3,3,2
+1972,ColRiver,Below Bonneville,Fall,92400,3,3,2
+1973,ColRiver,Below Bonneville,Fall,92400,3,3,2
+1974,ColRiver,Below Bonneville,Fall,92400,3,3,2
+1975,ColRiver,Below Bonneville,Fall,92400,3,3,2
+1976,ColRiver,Below Bonneville,Fall,81560,3,3,2
+1977,ColRiver,Below Bonneville,Fall,81560,3,3,2
+1978,ColRiver,Below Bonneville,Fall,81560,3,3,2
+1979,ColRiver,Below Bonneville,Fall,81560,3,3,2
+1980,ColRiver,Below Bonneville,Fall,81560,3,3,2
+1981,ColRiver,Below Bonneville,Fall,74601,3,3,2
+1982,ColRiver,Below Bonneville,Fall,74601,3,3,2
+1983,ColRiver,Below Bonneville,Fall,74601,3,3,2
+1984,ColRiver,Below Bonneville,Fall,74601,3,3,2
+1985,ColRiver,Below Bonneville,Fall,74601,3,3,2
+1986,ColRiver,Below Bonneville,Fall,87595,3,3,2
+1987,ColRiver,Below Bonneville,Fall,87595,3,3,2
+1988,ColRiver,Below Bonneville,Fall,87595,3,3,2
+1989,ColRiver,Below Bonneville,Fall,87595,3,3,2
+1990,ColRiver,Below Bonneville,Fall,87595,3,3,2
+1991,ColRiver,Below Bonneville,Fall,47334,3,3,2
+1992,ColRiver,Below Bonneville,Fall,47334,3,3,2
+1993,ColRiver,Below Bonneville,Fall,47334,3,3,2
+1994,ColRiver,Below Bonneville,Fall,47334,3,3,2
+1995,ColRiver,Below Bonneville,Fall,47334,3,3,2
+1996,ColRiver,Below Bonneville,Fall,66571,3,3,2
+1997,ColRiver,Below Bonneville,Fall,47320,3,3,2
+1998,ColRiver,Below Bonneville,Fall,39748,3,3,2
+1999,ColRiver,Below Bonneville,Fall,31581,3,3,2
+2000,ColRiver,Below Bonneville,Fall,22925,3,3,2
+2001,ColRiver,Below Bonneville,Fall,82430,3,3,2
+2002,ColRiver,Below Bonneville,Fall,130808,3,3,2
+2003,ColRiver,Below Bonneville,Fall,131554,3,3,2
+2004,ColRiver,Below Bonneville,Fall,83502,3,3,2
+2005,ColRiver,Below Bonneville,Fall,58640,3,3,2
+2006,ColRiver,Below Bonneville,Fall,42590,3,3,2
+2007,ColRiver,Below Bonneville,Fall,25258,3,3,2
+2008,ColRiver,Below Bonneville,Fall,48793,3,3,2
+2009,ColRiver,Below Bonneville,Fall,55182,3,3,2
+2010,ColRiver,Below Bonneville,Fall,74926,3,3,2
+2011,ColRiver,Below Bonneville,Fall,76069,3,3,2
+2012,ColRiver,Below Bonneville,Fall,51859,3,3,2
+2013,ColRiver,Below Bonneville,Fall,74073,3,3,2
+2014,ColRiver,Below Bonneville,Fall,72597,3,3,2
+2015,ColRiver,Below Bonneville,Fall,72020,3,3,2
+1971,ColRiver,Below Bonneville,Fall,29400,3,3,2
+1972,ColRiver,Below Bonneville,Fall,29400,3,3,2
+1973,ColRiver,Below Bonneville,Fall,29400,3,3,2
+1974,ColRiver,Below Bonneville,Fall,29400,3,3,2
+1975,ColRiver,Below Bonneville,Fall,29400,3,3,2
+1976,ColRiver,Below Bonneville,Fall,13720,3,3,2
+1977,ColRiver,Below Bonneville,Fall,13720,3,3,2
+1978,ColRiver,Below Bonneville,Fall,13720,3,3,2
+1979,ColRiver,Below Bonneville,Fall,13720,3,3,2
+1980,ColRiver,Below Bonneville,Fall,13720,3,3,2
+1981,ColRiver,Below Bonneville,Fall,12480,3,3,2
+1982,ColRiver,Below Bonneville,Fall,12480,3,3,2
+1983,ColRiver,Below Bonneville,Fall,12480,3,3,2
+1984,ColRiver,Below Bonneville,Fall,12480,3,3,2
+1985,ColRiver,Below Bonneville,Fall,12480,3,3,2
+1986,ColRiver,Below Bonneville,Fall,18383,3,3,2
+1987,ColRiver,Below Bonneville,Fall,18383,3,3,2
+1988,ColRiver,Below Bonneville,Fall,18383,3,3,2
+1989,ColRiver,Below Bonneville,Fall,18383,3,3,2
+1990,ColRiver,Below Bonneville,Fall,18383,3,3,2
+1991,ColRiver,Below Bonneville,Fall,10101,3,3,2
+1992,ColRiver,Below Bonneville,Fall,10101,3,3,2
+1993,ColRiver,Below Bonneville,Fall,10101,3,3,2
+1994,ColRiver,Below Bonneville,Fall,10101,3,3,2
+1995,ColRiver,Below Bonneville,Fall,10101,3,3,2
+1996,ColRiver,Below Bonneville,Fall,13914,3,3,2
+1997,ColRiver,Below Bonneville,Fall,11241,3,3,2
+1998,ColRiver,Below Bonneville,Fall,6493,3,3,2
+1999,ColRiver,Below Bonneville,Fall,3257,3,3,2
+2000,ColRiver,Below Bonneville,Fall,9422,3,3,2
+2001,ColRiver,Below Bonneville,Fall,13610,3,3,2
+2002,ColRiver,Below Bonneville,Fall,19654,3,3,2
+2003,ColRiver,Below Bonneville,Fall,17668,3,3,2
+2004,ColRiver,Below Bonneville,Fall,16346,3,3,2
+2005,ColRiver,Below Bonneville,Fall,11725,3,3,2
+2006,ColRiver,Below Bonneville,Fall,12758,3,3,2
+2007,ColRiver,Below Bonneville,Fall,3857,3,3,2
+2008,ColRiver,Below Bonneville,Fall,6183,3,3,2
+2009,ColRiver,Below Bonneville,Fall,6893,3,3,2
+2010,ColRiver,Below Bonneville,Fall,10661,3,3,2
+2011,ColRiver,Below Bonneville,Fall,10601,3,3,2
+2012,ColRiver,Below Bonneville,Fall,9407,3,3,2
+2013,ColRiver,Below Bonneville,Fall,18675,3,3,2
+2014,ColRiver,Below Bonneville,Fall,22900,3,3,2
+2015,ColRiver,Below Bonneville,Fall,12590,3,3,2
+1971,ColRiver,BelowBonneville,Spring,67500,3,1,3
+1972,ColRiver,BelowBonneville,Spring,67500,3,1,3
+1973,ColRiver,BelowBonneville,Spring,67500,3,1,3
+1974,ColRiver,BelowBonneville,Spring,67500,3,1,3
+1975,ColRiver,BelowBonneville,Spring,67500,3,1,3
+1976,ColRiver,BelowBonneville,Spring,83655,3,1,3
+1977,ColRiver,BelowBonneville,Spring,83655,3,1,3
+1978,ColRiver,BelowBonneville,Spring,83655,3,1,3
+1979,ColRiver,BelowBonneville,Spring,83655,3,1,3
+1980,ColRiver,BelowBonneville,Spring,83655,3,1,3
+1981,ColRiver,BelowBonneville,Spring,94280,3,1,3
+1982,ColRiver,BelowBonneville,Spring,94280,3,1,3
+1983,ColRiver,BelowBonneville,Spring,94280,3,1,3
+1984,ColRiver,BelowBonneville,Spring,94280,3,1,3
+1985,ColRiver,BelowBonneville,Spring,94280,3,1,3
+1986,ColRiver,BelowBonneville,Spring,117553,3,1,3
+1987,ColRiver,BelowBonneville,Spring,117553,3,1,3
+1988,ColRiver,BelowBonneville,Spring,117553,3,1,3
+1989,ColRiver,BelowBonneville,Spring,117553,3,1,3
+1990,ColRiver,BelowBonneville,Spring,117553,3,1,3
+1991,ColRiver,BelowBonneville,Spring,75847,3,1,3
+1992,ColRiver,BelowBonneville,Spring,75847,3,1,3
+1993,ColRiver,BelowBonneville,Spring,75847,3,1,3
+1994,ColRiver,BelowBonneville,Spring,75847,3,1,3
+1995,ColRiver,BelowBonneville,Spring,75847,3,1,3
+1996,ColRiver,BelowBonneville,Spring,44245,3,1,3
+1997,ColRiver,BelowBonneville,Spring,53288,3,1,3
+1998,ColRiver,BelowBonneville,Spring,62650,3,1,3
+1999,ColRiver,BelowBonneville,Spring,73184,3,1,3
+2000,ColRiver,BelowBonneville,Spring,71467,3,1,3
+2001,ColRiver,BelowBonneville,Spring,94211,3,1,3
+2002,ColRiver,BelowBonneville,Spring,158946,3,1,3
+2003,ColRiver,BelowBonneville,Spring,169051,3,1,3
+2004,ColRiver,BelowBonneville,Spring,207032,3,1,3
+2005,ColRiver,BelowBonneville,Spring,95244,3,1,3
+2006,ColRiver,BelowBonneville,Spring,99578,3,1,3
+2007,ColRiver,BelowBonneville,Spring,72988,3,1,3
+2008,ColRiver,BelowBonneville,Spring,45376,3,1,3
+2009,ColRiver,BelowBonneville,Spring,58594,3,1,3
+2010,ColRiver,BelowBonneville,Spring,127676,3,1,3
+2011,ColRiver,BelowBonneville,Spring,88422,3,1,3
+2012,ColRiver,BelowBonneville,Spring,88417,3,1,3
+2013,ColRiver,BelowBonneville,Spring,72636,3,1,3
+2014,ColRiver,BelowBonneville,Spring,76781,3,1,3
+2015,ColRiver,BelowBonneville,Spring,137368,3,1,3
+1978,WEAK,Chignik,summer,931.034,8,2,4
+1979,WEAK,Chignik,summer,827.586,8,2,4
+1980,WEAK,Chignik,summer,672.414,8,2,4
+1981,WEAK,Chignik,summer,1448.28,8,2,4
+1982,WEAK,Chignik,summer,2224.14,8,2,4
+1983,WEAK,Chignik,summer,1758.62,8,2,4
+1984,WEAK,Chignik,summer,5327.59,8,2,4
+1985,WEAK,Chignik,summer,2896.55,8,2,4
+1986,WEAK,Chignik,summer,3413.79,8,2,4
+1987,WEAK,Chignik,summer,2379.31,8,2,4
+1988,WEAK,Chignik,summer,4655.17,8,2,4
+1989,WEAK,Chignik,summer,3103.45,8,2,4
+1990,WEAK,Chignik,summer,4086.21,8,2,4
+1991,WEAK,Chignik,summer,4344.83,8,2,4
+1992,WEAK,Chignik,summer,3568.97,8,2,4
+1993,WEAK,Chignik,summer,1603.45,8,2,4
+1994,WEAK,Chignik,summer,2637.93,8,2,4
+1995,WEAK,Chignik,summer,4034.48,8,2,4
+1996,WEAK,Chignik,summer,3206.9,8,2,4
+1980,SEAK,Cooper,summer,23030.3,7,2,6
+1981,SEAK,Cooper,summer,18787.9,7,2,6
+1982,SEAK,Cooper,summer,20000,7,2,6
+1983,SEAK,Cooper,summer,21212.1,7,2,6
+1984,SEAK,Cooper,summer,31515.2,7,2,6
+1985,SEAK,Cooper,summer,8484.85,7,2,6
+1986,SEAK,Cooper,summer,36969.7,7,2,6
+1987,SEAK,Cooper,summer,27878.8,7,2,6
+1988,SEAK,Cooper,summer,23030.3,7,2,6
+1989,SEAK,Cooper,summer,46666.7,7,2,6
+1990,SEAK,Cooper,summer,29090.9,7,2,6
+1991,SEAK,Cooper,summer,27272.7,7,2,6
+1992,SEAK,Cooper,summer,13939.4,7,2,6
+1993,SEAK,Cooper,summer,17575.8,7,2,6
+1994,SEAK,Cooper,summer,20000,7,2,6
+1995,SEAK,Cooper,summer,13939.4,7,2,6
+1996,SEAK,Cooper,summer,33333.3,7,2,6
+1997,SEAK,Cooper,summer,50303,7,2,6
+1998,SEAK,Cooper,summer,34545.5,7,2,6
+1999,SEAK,Cooper,summer,16363.6,7,2,6
+2000,SEAK,Cooper,summer,24242.4,7,2,6
+2001,SEAK,Cooper,summer,28484.8,7,2,6
+2002,SEAK,Cooper,summer,21212.1,7,2,6
+2003,SEAK,Cooper,summer,33939.4,7,2,6
+2004,SEAK,Cooper,summer,30909.1,7,2,6
+2005,SEAK,Cooper,summer,21212.1,7,2,6
+2006,SEAK,Cooper,summer,59393.9,7,2,6
+2007,SEAK,Cooper,summer,34545.5,7,2,6
+2008,SEAK,Cooper,summer,32727.3,7,2,6
+2009,SEAK,Cooper,summer,27878.8,7,2,6
+2010,SEAK,Cooper,summer,16363.6,7,2,6
+1976,WACoast,GraysHarbor,Fall,600,4,3,7
+1977,WACoast,GraysHarbor,Fall,600,4,3,7
+1978,WACoast,GraysHarbor,Fall,600,4,3,7
+1979,WACoast,GraysHarbor,Fall,600,4,3,7
+1980,WACoast,GraysHarbor,Fall,600,4,3,7
+1981,WACoast,GraysHarbor,Fall,924,4,3,7
+1982,WACoast,GraysHarbor,Fall,924,4,3,7
+1983,WACoast,GraysHarbor,Fall,924,4,3,7
+1984,WACoast,GraysHarbor,Fall,924,4,3,7
+1985,WACoast,GraysHarbor,Fall,924,4,3,7
+1986,WACoast,GraysHarbor,Fall,1875,4,3,7
+1987,WACoast,GraysHarbor,Fall,1875,4,3,7
+1988,WACoast,GraysHarbor,Fall,1875,4,3,7
+1989,WACoast,GraysHarbor,Fall,1875,4,3,7
+1990,WACoast,GraysHarbor,Fall,1875,4,3,7
+1991,WACoast,GraysHarbor,Fall,1566,4,3,7
+1992,WACoast,GraysHarbor,Fall,1566,4,3,7
+1993,WACoast,GraysHarbor,Fall,1566,4,3,7
+1994,WACoast,GraysHarbor,Fall,1566,4,3,7
+1995,WACoast,GraysHarbor,Fall,1566,4,3,7
+1996,WACoast,GraysHarbor,Fall,4462,4,3,7
+1997,WACoast,GraysHarbor,Fall,4460,4,3,7
+1998,WACoast,GraysHarbor,Fall,2388,4,3,7
+1999,WACoast,GraysHarbor,Fall,1285,4,3,7
+2000,WACoast,GraysHarbor,Fall,3135,4,3,7
+2001,WACoast,GraysHarbor,Fall,2860,4,3,7
+2002,WACoast,GraysHarbor,Fall,2598,4,3,7
+2003,WACoast,GraysHarbor,Fall,1904,4,3,7
+2004,WACoast,GraysHarbor,Fall,5034,4,3,7
+2005,WACoast,GraysHarbor,Fall,2129,4,3,7
+2006,WACoast,GraysHarbor,Fall,2481,4,3,7
+2007,WACoast,GraysHarbor,Fall,651,4,3,7
+2008,WACoast,GraysHarbor,Fall,995,4,3,7
+2009,WACoast,GraysHarbor,Fall,1132,4,3,7
+2010,WACoast,GraysHarbor,Fall,3495,4,3,7
+2011,WACoast,GraysHarbor,Fall,2563,4,3,7
+2012,WACoast,GraysHarbor,Fall,878,4,3,7
+2013,WACoast,GraysHarbor,Fall,2459,4,3,7
+2014,WACoast,GraysHarbor,Fall,1583,4,3,7
+2015,WACoast,GraysHarbor,Fall,1828.641026,4,3,7
+1976,WACoast,Hoh,Spring/Summer,1040,4,2,8
+1977,WACoast,Hoh,Spring/Summer,1040,4,2,8
+1978,WACoast,Hoh,Spring/Summer,1040,4,2,8
+1979,WACoast,Hoh,Spring/Summer,1040,4,2,8
+1980,WACoast,Hoh,Spring/Summer,1040,4,2,8
+1981,WACoast,Hoh,Spring/Summer,1481,4,2,8
+1982,WACoast,Hoh,Spring/Summer,1481,4,2,8
+1983,WACoast,Hoh,Spring/Summer,1481,4,2,8
+1984,WACoast,Hoh,Spring/Summer,1481,4,2,8
+1985,WACoast,Hoh,Spring/Summer,1481,4,2,8
+1986,WACoast,Hoh,Spring/Summer,2863,4,2,8
+1987,WACoast,Hoh,Spring/Summer,2863,4,2,8
+1988,WACoast,Hoh,Spring/Summer,2863,4,2,8
+1989,WACoast,Hoh,Spring/Summer,2863,4,2,8
+1990,WACoast,Hoh,Spring/Summer,2863,4,2,8
+1991,WACoast,Hoh,Spring/Summer,1268,4,2,8
+1992,WACoast,Hoh,Spring/Summer,1268,4,2,8
+1993,WACoast,Hoh,Spring/Summer,1268,4,2,8
+1994,WACoast,Hoh,Spring/Summer,1268,4,2,8
+1995,WACoast,Hoh,Spring/Summer,1268,4,2,8
+1996,WACoast,Hoh,Spring/Summer,1387,4,2,8
+1997,WACoast,Hoh,Spring/Summer,1826,4,2,8
+1998,WACoast,Hoh,Spring/Summer,1287,4,2,8
+1999,WACoast,Hoh,Spring/Summer,1027,4,2,8
+2000,WACoast,Hoh,Spring/Summer,492,4,2,8
+2001,WACoast,Hoh,Spring/Summer,1159,4,2,8
+2002,WACoast,Hoh,Spring/Summer,2464,4,2,8
+2003,WACoast,Hoh,Spring/Summer,1228,4,2,8
+2004,WACoast,Hoh,Spring/Summer,1786,4,2,8
+2005,WACoast,Hoh,Spring/Summer,1193,4,2,8
+2006,WACoast,Hoh,Spring/Summer,904,4,2,8
+2007,WACoast,Hoh,Spring/Summer,810,4,2,8
+2008,WACoast,Hoh,Spring/Summer,671,4,2,8
+2009,WACoast,Hoh,Spring/Summer,882,4,2,8
+2010,WACoast,Hoh,Spring/Summer,828,4,2,8
+2011,WACoast,Hoh,Spring/Summer,827,4,2,8
+2012,WACoast,Hoh,Spring/Summer,916,4,2,8
+2013,WACoast,Hoh,Spring/Summer,750,4,2,8
+2014,WACoast,Hoh,Spring/Summer,744,4,2,8
+2015,WACoast,Hoh,Spring/Summer,1070,4,2,8
+1976,WACoast,Hoh,fall,2960,4,3,8
+1977,WACoast,Hoh,fall,2960,4,3,8
+1978,WACoast,Hoh,fall,2960,4,3,8
+1979,WACoast,Hoh,fall,2960,4,3,8
+1980,WACoast,Hoh,fall,2960,4,3,8
+1981,WACoast,Hoh,fall,3684,4,3,8
+1982,WACoast,Hoh,fall,3684,4,3,8
+1983,WACoast,Hoh,fall,3684,4,3,8
+1984,WACoast,Hoh,fall,3684,4,3,8
+1985,WACoast,Hoh,fall,3684,4,3,8
+1986,WACoast,Hoh,fall,6819,4,3,8
+1987,WACoast,Hoh,fall,6819,4,3,8
+1988,WACoast,Hoh,fall,6819,4,3,8
+1989,WACoast,Hoh,fall,6819,4,3,8
+1990,WACoast,Hoh,fall,6819,4,3,8
+1991,WACoast,Hoh,fall,3590,4,3,8
+1992,WACoast,Hoh,fall,3590,4,3,8
+1993,WACoast,Hoh,fall,3590,4,3,8
+1994,WACoast,Hoh,fall,3590,4,3,8
+1995,WACoast,Hoh,fall,3590,4,3,8
+1996,WACoast,Hoh,fall,4061,4,3,8
+1997,WACoast,Hoh,fall,3034,4,3,8
+1998,WACoast,Hoh,fall,5388,4,3,8
+1999,WACoast,Hoh,fall,2941,4,3,8
+2000,WACoast,Hoh,fall,2632,4,3,8
+2001,WACoast,Hoh,fall,4116,4,3,8
+2002,WACoast,Hoh,fall,5716,4,3,8
+2003,WACoast,Hoh,fall,2345,4,3,8
+2004,WACoast,Hoh,fall,4410,4,3,8
+2005,WACoast,Hoh,fall,5323,4,3,8
+2006,WACoast,Hoh,fall,2336,4,3,8
+2007,WACoast,Hoh,fall,2427,4,3,8
+2008,WACoast,Hoh,fall,3911,4,3,8
+2009,WACoast,Hoh,fall,2747,4,3,8
+2010,WACoast,Hoh,fall,3204,4,3,8
+2011,WACoast,Hoh,fall,2163,4,3,8
+2012,WACoast,Hoh,fall,2770,4,3,8
+2013,WACoast,Hoh,fall,3287,4,3,8
+2014,WACoast,Hoh,fall,2628,4,3,8
+2015,WACoast,Hoh,fall,2095,4,3,8
+1981,SalishSea,HoodCanal,Fall,10748,5,3,9
+1982,SalishSea,HoodCanal,Fall,10748,5,3,9
+1983,SalishSea,HoodCanal,Fall,10748,5,3,9
+1984,SalishSea,HoodCanal,Fall,10748,5,3,9
+1985,SalishSea,HoodCanal,Fall,10748,5,3,9
+1986,SalishSea,HoodCanal,Fall,18783,5,3,9
+1987,SalishSea,HoodCanal,Fall,18783,5,3,9
+1988,SalishSea,HoodCanal,Fall,18783,5,3,9
+1989,SalishSea,HoodCanal,Fall,18783,5,3,9
+1990,SalishSea,HoodCanal,Fall,18783,5,3,9
+1991,SalishSea,HoodCanal,Fall,7193,5,3,9
+1992,SalishSea,HoodCanal,Fall,7193,5,3,9
+1993,SalishSea,HoodCanal,Fall,7193,5,3,9
+1994,SalishSea,HoodCanal,Fall,7193,5,3,9
+1995,SalishSea,HoodCanal,Fall,7193,5,3,9
+1996,SalishSea,HoodCanal,Fall,16207,5,3,9
+1997,SalishSea,HoodCanal,Fall,16207,5,3,9
+1998,SalishSea,HoodCanal,Fall,16207,5,3,9
+1999,SalishSea,HoodCanal,Fall,16207,5,3,9
+2000,SalishSea,HoodCanal,Fall,16207,5,3,9
+2001,SalishSea,HoodCanal,Fall,35074,5,3,9
+2002,SalishSea,HoodCanal,Fall,35074,5,3,9
+2003,SalishSea,HoodCanal,Fall,35074,5,3,9
+2004,SalishSea,HoodCanal,Fall,35074,5,3,9
+2005,SalishSea,HoodCanal,Fall,35074,5,3,9
+2006,SalishSea,HoodCanal,Fall,39162,5,3,9
+2007,SalishSea,HoodCanal,Fall,32148,5,3,9
+2008,SalishSea,HoodCanal,Fall,32344,5,3,9
+2009,SalishSea,HoodCanal,Fall,37115,5,3,9
+2010,SalishSea,HoodCanal,Fall,36716,5,3,9
+2011,SalishSea,HoodCanal,Fall,51838,5,3,9
+2012,SalishSea,HoodCanal,Fall,88577,5,3,9
+2013,SalishSea,HoodCanal,Fall,70678,5,3,9
+2014,SalishSea,HoodCanal,Fall,25020,5,3,9
+1976,WEAK,Karluk,summer,6414.27,8,2,10
+1977,WEAK,Karluk,summer,7830.7,8,2,10
+1978,WEAK,Karluk,summer,9029.11,8,2,10
+1979,WEAK,Karluk,summer,8923.6,8,2,10
+1980,WEAK,Karluk,summer,4252.71,8,2,10
+1981,WEAK,Karluk,summer,7082.17,8,2,10
+1982,WEAK,Karluk,summer,6541.68,8,2,10
+1983,WEAK,Karluk,summer,11218.7,8,2,10
+1984,WEAK,Karluk,summer,7526.1,8,2,10
+1985,WEAK,Karluk,summer,4594.32,8,2,10
+1986,WEAK,Karluk,summer,4271.43,8,2,10
+1987,WEAK,Karluk,summer,7752.64,8,2,10
+1988,WEAK,Karluk,summer,12429.5,8,2,10
+1989,WEAK,Karluk,summer,9824,8,2,10
+1990,WEAK,Karluk,summer,13740,8,2,10
+1991,WEAK,Karluk,summer,12330.2,8,2,10
+1992,WEAK,Karluk,summer,8529.03,8,2,10
+1993,WEAK,Karluk,summer,12336.5,8,2,10
+1994,WEAK,Karluk,summer,10491.7,8,2,10
+1995,WEAK,Karluk,summer,11364.4,8,2,10
+1996,WEAK,Karluk,summer,8323.97,8,2,10
+1997,WEAK,Karluk,summer,11805.4,8,2,10
+1998,WEAK,Karluk,summer,9091.01,8,2,10
+1999,WEAK,Karluk,summer,11485.5,8,2,10
+2000,WEAK,Karluk,summer,8010.23,8,2,10
+2001,WEAK,Karluk,summer,3121.94,8,2,10
+2002,WEAK,Karluk,summer,6494.67,8,2,10
+2003,WEAK,Karluk,summer,6824.16,8,2,10
+2004,WEAK,Karluk,summer,6826.92,8,2,10
+2005,WEAK,Karluk,summer,4438.62,8,2,10
+2006,WEAK,Karluk,summer,3354.86,8,2,10
+2007,WEAK,Karluk,summer,1510.24,8,2,10
+2008,WEAK,Karluk,summer,861.049,8,2,10
+2009,WEAK,Karluk,summer,1081.63,8,2,10
+2010,WEAK,Karluk,summer,2932.63,8,2,10
+2011,WEAK,Karluk,summer,3370.39,8,2,10
+1986,WEAK,Kenai,summer,52706.1,8,2,11
+1987,WEAK,Kenai,summer,48031.5,8,2,11
+1988,WEAK,Kenai,summer,41269.9,8,2,11
+1989,WEAK,Kenai,summer,25638.7,8,2,11
+1990,WEAK,Kenai,summer,25658.6,8,2,11
+1991,WEAK,Kenai,summer,29331.8,8,2,11
+1992,WEAK,Kenai,summer,34048.5,8,2,11
+1993,WEAK,Kenai,summer,31982.5,8,2,11
+1994,WEAK,Kenai,summer,28872,8,2,11
+1995,WEAK,Kenai,summer,30459.3,8,2,11
+1996,WEAK,Kenai,summer,29436.8,8,2,11
+1997,WEAK,Kenai,summer,24240.4,8,2,11
+1998,WEAK,Kenai,summer,37826.6,8,2,11
+1999,WEAK,Kenai,summer,30542.2,8,2,11
+2000,WEAK,Kenai,summer,32127.4,8,2,11
+2001,WEAK,Kenai,summer,38409.2,8,2,11
+2002,WEAK,Kenai,summer,46257.4,8,2,11
+2003,WEAK,Kenai,summer,68713.1,8,2,11
+2004,WEAK,Kenai,summer,65601.6,8,2,11
+2005,WEAK,Kenai,summer,59884.5,8,2,11
+2006,WEAK,Kenai,summer,49992.5,8,2,11
+2007,WEAK,Kenai,summer,35404.8,8,2,11
+2008,WEAK,Kenai,summer,33337.8,8,2,11
+2009,WEAK,Kenai,summer,23447.8,8,2,11
+2010,WEAK,Kenai,summer,17727.6,8,2,11
+2011,WEAK,Kenai,summer,21400.8,8,2,11
+1978,NorCal,KlamathTrinity,Fall,52288,2,3,12
+1979,NorCal,KlamathTrinity,Fall,52288,2,3,12
+1980,NorCal,KlamathTrinity,Fall,52288,2,3,12
+1978,NorCal,KlamathTrinity,Fall,20837,2,3,12
+1979,NorCal,KlamathTrinity,Fall,20837,2,3,12
+1980,NorCal,KlamathTrinity,Fall,20837,2,3,12
+1981,NorCal,KlamathTrinity,Fall,51159,2,3,12
+1982,NorCal,KlamathTrinity,Fall,51159,2,3,12
+1983,NorCal,KlamathTrinity,Fall,51159,2,3,12
+1984,NorCal,KlamathTrinity,Fall,51159,2,3,12
+1985,NorCal,KlamathTrinity,Fall,51159,2,3,12
+1981,NorCal,KlamathTrinity,Fall,27883,2,3,12
+1982,NorCal,KlamathTrinity,Fall,27883,2,3,12
+1983,NorCal,KlamathTrinity,Fall,27883,2,3,12
+1984,NorCal,KlamathTrinity,Fall,27883,2,3,12
+1985,NorCal,KlamathTrinity,Fall,27883,2,3,12
+1986,NorCal,KlamathTrinity,Fall,120997,2,3,12
+1987,NorCal,KlamathTrinity,Fall,120997,2,3,12
+1988,NorCal,KlamathTrinity,Fall,120997,2,3,12
+1989,NorCal,KlamathTrinity,Fall,120997,2,3,12
+1990,NorCal,KlamathTrinity,Fall,120997,2,3,12
+1986,NorCal,KlamathTrinity,Fall,18012,2,3,12
+1987,NorCal,KlamathTrinity,Fall,18012,2,3,12
+1988,NorCal,KlamathTrinity,Fall,18012,2,3,12
+1989,NorCal,KlamathTrinity,Fall,18012,2,3,12
+1990,NorCal,KlamathTrinity,Fall,18012,2,3,12
+1991,NorCal,KlamathTrinity,Fall,84101,2,3,12
+1992,NorCal,KlamathTrinity,Fall,84101,2,3,12
+1993,NorCal,KlamathTrinity,Fall,84101,2,3,12
+1994,NorCal,KlamathTrinity,Fall,84101,2,3,12
+1995,NorCal,KlamathTrinity,Fall,84101,2,3,12
+1991,NorCal,KlamathTrinity,Fall,11199,2,3,12
+1992,NorCal,KlamathTrinity,Fall,11199,2,3,12
+1993,NorCal,KlamathTrinity,Fall,11199,2,3,12
+1994,NorCal,KlamathTrinity,Fall,11199,2,3,12
+1995,NorCal,KlamathTrinity,Fall,11199,2,3,12
+1996,NorCal,KlamathTrinity,Fall,126169,2,3,12
+1997,NorCal,KlamathTrinity,Fall,126169,2,3,12
+1998,NorCal,KlamathTrinity,Fall,126169,2,3,12
+1999,NorCal,KlamathTrinity,Fall,126169,2,3,12
+2000,NorCal,KlamathTrinity,Fall,126169,2,3,12
+1996,NorCal,KlamathTrinity,Fall,10589,2,3,12
+1997,NorCal,KlamathTrinity,Fall,10589,2,3,12
+1998,NorCal,KlamathTrinity,Fall,10589,2,3,12
+1999,NorCal,KlamathTrinity,Fall,10589,2,3,12
+2000,NorCal,KlamathTrinity,Fall,10589,2,3,12
+2001,NorCal,KlamathTrinity,Fall,188058,2,3,12
+2001,NorCal,KlamathTrinity,Fall,11009,2,3,12
+2002,NorCal,KlamathTrinity,Fall,120001,2,3,12
+2002,NorCal,KlamathTrinity,Fall,8529,2,3,12
+2003,NorCal,KlamathTrinity,Fall,211206,2,3,12
+2003,NorCal,KlamathTrinity,Fall,3830,2,3,12
+2004,NorCal,KlamathTrinity,Fall,69794,2,3,12
+2004,NorCal,KlamathTrinity,Fall,8646,2,3,12
+2005,NorCal,KlamathTrinity,Fall,82187,2,3,12
+2005,NorCal,KlamathTrinity,Fall,1270,2,3,12
+2006,NorCal,KlamathTrinity,Fall,69207,2,3,12
+2006,NorCal,KlamathTrinity,Fall,27306,2,3,12
+2007,NorCal,KlamathTrinity,Fall,130770,2,3,12
+2007,NorCal,KlamathTrinity,Fall,1497,2,3,12
+2008,NorCal,KlamathTrinity,Fall,57954,2,3,12
+2008,NorCal,KlamathTrinity,Fall,23085,2,3,12
+2009,NorCal,KlamathTrinity,Fall,83637,2,3,12
+2009,NorCal,KlamathTrinity,Fall,10834,2,3,12
+2010,NorCal,KlamathTrinity,Fall,73329,2,3,12
+2010,NorCal,KlamathTrinity,Fall,16808,2,3,12
+2011,NorCal,KlamathTrinity,Fall,91437,2,3,12
+2011,NorCal,KlamathTrinity,Fall,84697,2,3,12
+2012,NorCal,KlamathTrinity,Fall,233421,2,3,12
+2012,NorCal,KlamathTrinity,Fall,18916,2,3,12
+2013,NorCal,KlamathTrinity,Fall,93452,2,3,12
+2013,NorCal,KlamathTrinity,Fall,13226,2,3,12
+2014,NorCal,KlamathTrinity,Fall,157655,2,3,12
+2014,NorCal,KlamathTrinity,Fall,19758,2,3,12
+2015,NorCal,KlamathTrinity,Fall,50290,2,3,12
+2015,NorCal,KlamathTrinity,Fall,4364,2,3,12
+1982,ColRiver,MidColBrights,Fall,3450,3,3,13
+1983,ColRiver,MidColBrights,Fall,3450,3,3,13
+1984,ColRiver,MidColBrights,Fall,3450,3,3,13
+1985,ColRiver,MidColBrights,Fall,3450,3,3,13
+1986,ColRiver,MidColBrights,Fall,13447,3,3,13
+1987,ColRiver,MidColBrights,Fall,13447,3,3,13
+1988,ColRiver,MidColBrights,Fall,13447,3,3,13
+1989,ColRiver,MidColBrights,Fall,13447,3,3,13
+1990,ColRiver,MidColBrights,Fall,13447,3,3,13
+1991,ColRiver,MidColBrights,Fall,17958,3,3,13
+1992,ColRiver,MidColBrights,Fall,17958,3,3,13
+1993,ColRiver,MidColBrights,Fall,17958,3,3,13
+1994,ColRiver,MidColBrights,Fall,17958,3,3,13
+1995,ColRiver,MidColBrights,Fall,17958,3,3,13
+1996,ColRiver,MidColBrights,Fall,31486,3,3,13
+1997,ColRiver,MidColBrights,Fall,31724,3,3,13
+1998,ColRiver,MidColBrights,Fall,19781,3,3,13
+1999,ColRiver,MidColBrights,Fall,24547,3,3,13
+2000,ColRiver,MidColBrights,Fall,18019,3,3,13
+2001,ColRiver,MidColBrights,Fall,28301,3,3,13
+2002,ColRiver,MidColBrights,Fall,48951,3,3,13
+2003,ColRiver,MidColBrights,Fall,62379,3,3,13
+2004,ColRiver,MidColBrights,Fall,53989,3,3,13
+2005,ColRiver,MidColBrights,Fall,45262,3,3,13
+2006,ColRiver,MidColBrights,Fall,32246,3,3,13
+2007,ColRiver,MidColBrights,Fall,18612,3,3,13
+2008,ColRiver,MidColBrights,Fall,28222,3,3,13
+2009,ColRiver,MidColBrights,Fall,31323,3,3,13
+2010,ColRiver,MidColBrights,Fall,41295,3,3,13
+2011,ColRiver,MidColBrights,Fall,37322,3,3,13
+2012,ColRiver,MidColBrights,Fall,29912,3,3,13
+2013,ColRiver,MidColBrights,Fall,124044,3,3,13
+2014,ColRiver,MidColBrights,Fall,69071,3,3,13
+2015,ColRiver,MidColBrights,Fall,87140,3,3,13
+1978,NorCal,NorthCoast,fall,534,2,3,14
+1979,NorCal,NorthCoast,fall,2982,2,3,14
+1980,NorCal,NorthCoast,fall,481,2,3,14
+1981,NorCal,NorthCoast,fall,1297,2,3,14
+1982,NorCal,NorthCoast,fall,2044,2,3,14
+1983,NorCal,NorthCoast,fall,219,2,3,14
+1984,NorCal,NorthCoast,fall,1375,2,3,14
+1985,NorCal,NorthCoast,fall,4392,2,3,14
+1986,NorCal,NorthCoast,fall,2570,2,3,14
+1987,NorCal,NorthCoast,fall,5970,2,3,14
+1988,NorCal,NorthCoast,fall,964,2,3,14
+1989,NorCal,NorthCoast,fall,0,2,3,14
+1990,NorCal,NorthCoast,fall,0,2,3,14
+1991,NorCal,NorthCoast,fall,0,2,3,14
+1992,NorCal,NorthCoast,fall,214,2,3,14
+1993,NorCal,NorthCoast,fall,196,2,3,14
+1994,NorCal,NorthCoast,fall,106,2,3,14
+1995,NorCal,NorthCoast,fall,298,2,3,14
+1996,NorCal,NorthCoast,fall,319,2,3,14
+1997,NorCal,NorthCoast,fall,191,2,3,14
+1998,NorCal,NorthCoast,fall,190,2,3,14
+1999,NorCal,NorthCoast,fall,220,2,3,14
+2000,NorCal,NorthCoast,fall,1586,2,3,14
+2001,NorCal,NorthCoast,fall,1726,2,3,14
+2002,NorCal,NorthCoast,fall,6148,2,3,14
+2003,NorCal,NorthCoast,fall,6425,2,3,14
+2004,NorCal,NorthCoast,fall,5188,2,3,14
+2005,NorCal,NorthCoast,fall,3120,2,3,14
+2006,NorCal,NorthCoast,fall,3619,2,3,14
+2007,NorCal,NorthCoast,fall,2201,2,3,14
+2008,NorCal,NorthCoast,fall,1365,2,3,14
+2009,NorCal,NorthCoast,fall,2166,2,3,14
+2010,NorCal,NorthCoast,fall,3071,2,3,14
+2011,NorCal,NorthCoast,fall,3441,2,3,14
+2012,NorCal,NorthCoast,fall,7296,2,3,14
+2013,NorCal,NorthCoast,fall,3178,2,3,14
+2014,NorCal,NorthCoast,fall,1837,2,3,14
+2015,NorCal,NorthCoast,fall,3221,2,3,14
+1981,SalishSea,PugetSound,Fall,2319,5,3,15
+1982,SalishSea,PugetSound,Fall,2319,5,3,15
+1983,SalishSea,PugetSound,Fall,2319,5,3,15
+1984,SalishSea,PugetSound,Fall,2319,5,3,15
+1985,SalishSea,PugetSound,Fall,2319,5,3,15
+1986,SalishSea,PugetSound,Fall,6166,5,3,15
+1987,SalishSea,PugetSound,Fall,6166,5,3,15
+1988,SalishSea,PugetSound,Fall,6166,5,3,15
+1989,SalishSea,PugetSound,Fall,6166,5,3,15
+1990,SalishSea,PugetSound,Fall,6166,5,3,15
+1991,SalishSea,PugetSound,Fall,3438,5,3,15
+1992,SalishSea,PugetSound,Fall,3438,5,3,15
+1993,SalishSea,PugetSound,Fall,3438,5,3,15
+1994,SalishSea,PugetSound,Fall,3438,5,3,15
+1995,SalishSea,PugetSound,Fall,3438,5,3,15
+1996,SalishSea,PugetSound,Fall,3437,5,3,15
+1997,SalishSea,PugetSound,Fall,3437,5,3,15
+1998,SalishSea,PugetSound,Fall,3437,5,3,15
+1999,SalishSea,PugetSound,Fall,3437,5,3,15
+2000,SalishSea,PugetSound,Fall,3437,5,3,15
+2001,SalishSea,PugetSound,Fall,4060,5,3,15
+2002,SalishSea,PugetSound,Fall,4060,5,3,15
+2003,SalishSea,PugetSound,Fall,4060,5,3,15
+2004,SalishSea,PugetSound,Fall,4060,5,3,15
+2005,SalishSea,PugetSound,Fall,4060,5,3,15
+2006,SalishSea,PugetSound,Fall,4387,5,3,15
+2007,SalishSea,PugetSound,Fall,2125,5,3,15
+2008,SalishSea,PugetSound,Fall,1876,5,3,15
+2009,SalishSea,PugetSound,Fall,2785,5,3,15
+2010,SalishSea,PugetSound,Fall,2528,5,3,15
+2011,SalishSea,PugetSound,Fall,3576,5,3,15
+2012,SalishSea,PugetSound,Fall,3261,5,3,15
+2013,SalishSea,PugetSound,Fall,6803,5,3,15
+2014,SalishSea,PugetSound,Fall,6139,5,3,15
+1976,WACoast,Queets,Spring/Summer,1176,4,2,16
+1977,WACoast,Queets,Spring/Summer,1176,4,2,16
+1978,WACoast,Queets,Spring/Summer,1176,4,2,16
+1979,WACoast,Queets,Spring/Summer,1176,4,2,16
+1980,WACoast,Queets,Spring/Summer,1176,4,2,16
+1981,WACoast,Queets,Spring/Summer,956,4,2,16
+1982,WACoast,Queets,Spring/Summer,956,4,2,16
+1983,WACoast,Queets,Spring/Summer,956,4,2,16
+1984,WACoast,Queets,Spring/Summer,956,4,2,16
+1985,WACoast,Queets,Spring/Summer,956,4,2,16
+1986,WACoast,Queets,Spring/Summer,2287,4,2,16
+1987,WACoast,Queets,Spring/Summer,2287,4,2,16
+1988,WACoast,Queets,Spring/Summer,2287,4,2,16
+1989,WACoast,Queets,Spring/Summer,2287,4,2,16
+1990,WACoast,Queets,Spring/Summer,2287,4,2,16
+1991,WACoast,Queets,Spring/Summer,689,4,2,16
+1992,WACoast,Queets,Spring/Summer,689,4,2,16
+1993,WACoast,Queets,Spring/Summer,689,4,2,16
+1994,WACoast,Queets,Spring/Summer,689,4,2,16
+1995,WACoast,Queets,Spring/Summer,689,4,2,16
+1996,WACoast,Queets,Spring/Summer,891,4,2,16
+1997,WACoast,Queets,Spring/Summer,693,4,2,16
+1998,WACoast,Queets,Spring/Summer,537,4,2,16
+1999,WACoast,Queets,Spring/Summer,426,4,2,16
+2000,WACoast,Queets,Spring/Summer,250,4,2,16
+2001,WACoast,Queets,Spring/Summer,565,4,2,16
+2002,WACoast,Queets,Spring/Summer,755,4,2,16
+2003,WACoast,Queets,Spring/Summer,195,4,2,16
+2004,WACoast,Queets,Spring/Summer,619,4,2,16
+2005,WACoast,Queets,Spring/Summer,306,4,2,16
+2006,WACoast,Queets,Spring/Summer,336,4,2,16
+2007,WACoast,Queets,Spring/Summer,358,4,2,16
+2008,WACoast,Queets,Spring/Summer,305,4,2,16
+2009,WACoast,Queets,Spring/Summer,495,4,2,16
+2010,WACoast,Queets,Spring/Summer,259,4,2,16
+2011,WACoast,Queets,Spring/Summer,373,4,2,16
+2012,WACoast,Queets,Spring/Summer,760,4,2,16
+2013,WACoast,Queets,Spring/Summer,520,4,2,16
+2014,WACoast,Queets,Spring/Summer,452,4,2,16
+1976,WACoast,Queets,Fall,4320,4,3,16
+1977,WACoast,Queets,Fall,4320,4,3,16
+1978,WACoast,Queets,Fall,4320,4,3,16
+1979,WACoast,Queets,Fall,4320,4,3,16
+1980,WACoast,Queets,Fall,4320,4,3,16
+1981,WACoast,Queets,Fall,5691,4,3,16
+1982,WACoast,Queets,Fall,5691,4,3,16
+1983,WACoast,Queets,Fall,5691,4,3,16
+1984,WACoast,Queets,Fall,5691,4,3,16
+1985,WACoast,Queets,Fall,5691,4,3,16
+1986,WACoast,Queets,Fall,10677,4,3,16
+1987,WACoast,Queets,Fall,10677,4,3,16
+1988,WACoast,Queets,Fall,10677,4,3,16
+1989,WACoast,Queets,Fall,10677,4,3,16
+1990,WACoast,Queets,Fall,10677,4,3,16
+1991,WACoast,Queets,Fall,5511,4,3,16
+1992,WACoast,Queets,Fall,5511,4,3,16
+1993,WACoast,Queets,Fall,5511,4,3,16
+1994,WACoast,Queets,Fall,5511,4,3,16
+1995,WACoast,Queets,Fall,5511,4,3,16
+1996,WACoast,Queets,Fall,4693,4,3,16
+1997,WACoast,Queets,Fall,4122,4,3,16
+1998,WACoast,Queets,Fall,5009,4,3,16
+1999,WACoast,Queets,Fall,2885,4,3,16
+2000,WACoast,Queets,Fall,3752,4,3,16
+2001,WACoast,Queets,Fall,3571,4,3,16
+2002,WACoast,Queets,Fall,4385,4,3,16
+2003,WACoast,Queets,Fall,5183,4,3,16
+2004,WACoast,Queets,Fall,4846,4,3,16
+2005,WACoast,Queets,Fall,4542,4,3,16
+2006,WACoast,Queets,Fall,3262,4,3,16
+2007,WACoast,Queets,Fall,1288,4,3,16
+2008,WACoast,Queets,Fall,3510,4,3,16
+2009,WACoast,Queets,Fall,4062,4,3,16
+2010,WACoast,Queets,Fall,4250,4,3,16
+2011,WACoast,Queets,Fall,4877,4,3,16
+2012,WACoast,Queets,Fall,5835,4,3,16
+2013,WACoast,Queets,Fall,4077,4,3,16
+2014,WACoast,Queets,Fall,3353,4,3,16
+1976,WACoast,Quillayute,spring/summer,2893,4,2,17
+1977,WACoast,Quillayute,spring/summer,2893,4,2,17
+1978,WACoast,Quillayute,spring/summer,2893,4,2,17
+1979,WACoast,Quillayute,spring/summer,2893,4,2,17
+1980,WACoast,Quillayute,spring/summer,2893,4,2,17
+1981,WACoast,Quillayute,spring/summer,991,4,2,17
+1982,WACoast,Quillayute,spring/summer,991,4,2,17
+1983,WACoast,Quillayute,spring/summer,991,4,2,17
+1984,WACoast,Quillayute,spring/summer,991,4,2,17
+1985,WACoast,Quillayute,spring/summer,991,4,2,17
+1986,WACoast,Quillayute,spring/summer,2605,4,2,17
+1987,WACoast,Quillayute,spring/summer,2605,4,2,17
+1988,WACoast,Quillayute,spring/summer,2605,4,2,17
+1989,WACoast,Quillayute,spring/summer,2605,4,2,17
+1990,WACoast,Quillayute,spring/summer,2605,4,2,17
+1991,WACoast,Quillayute,spring/summer,1991,4,2,17
+1992,WACoast,Quillayute,spring/summer,1991,4,2,17
+1993,WACoast,Quillayute,spring/summer,1991,4,2,17
+1994,WACoast,Quillayute,spring/summer,1991,4,2,17
+1995,WACoast,Quillayute,spring/summer,1991,4,2,17
+1996,WACoast,Quillayute,spring/summer,1396,4,2,17
+1997,WACoast,Quillayute,spring/summer,1088,4,2,17
+1998,WACoast,Quillayute,spring/summer,1846,4,2,17
+1999,WACoast,Quillayute,spring/summer,1309,4,2,17
+2000,WACoast,Quillayute,spring/summer,1216,4,2,17
+2001,WACoast,Quillayute,spring/summer,2198,4,2,17
+2002,WACoast,Quillayute,spring/summer,1838,4,2,17
+2003,WACoast,Quillayute,spring/summer,2469,4,2,17
+2004,WACoast,Quillayute,spring/summer,1856,4,2,17
+2005,WACoast,Quillayute,spring/summer,1677,4,2,17
+2006,WACoast,Quillayute,spring/summer,1585,4,2,17
+2007,WACoast,Quillayute,spring/summer,1509,4,2,17
+2008,WACoast,Quillayute,spring/summer,1745,4,2,17
+2009,WACoast,Quillayute,spring/summer,1277,4,2,17
+2010,WACoast,Quillayute,spring/summer,1652,4,2,17
+2011,WACoast,Quillayute,spring/summer,1265,4,2,17
+2012,WACoast,Quillayute,spring/summer,1166,4,2,17
+2013,WACoast,Quillayute,spring/summer,1485,4,2,17
+2014,WACoast,Quillayute,spring/summer,950,4,2,17
+2015,WACoast,Quillayute,spring/summer,1329,4,2,17
+1976,WACoast,Quillayute,fall,4364,4,3,17
+1977,WACoast,Quillayute,fall,4364,4,3,17
+1978,WACoast,Quillayute,fall,4364,4,3,17
+1979,WACoast,Quillayute,fall,4364,4,3,17
+1980,WACoast,Quillayute,fall,4364,4,3,17
+1981,WACoast,Quillayute,fall,6359,4,3,17
+1982,WACoast,Quillayute,fall,6359,4,3,17
+1983,WACoast,Quillayute,fall,6359,4,3,17
+1984,WACoast,Quillayute,fall,6359,4,3,17
+1985,WACoast,Quillayute,fall,6359,4,3,17
+1986,WACoast,Quillayute,fall,12350,4,3,17
+1987,WACoast,Quillayute,fall,12350,4,3,17
+1988,WACoast,Quillayute,fall,12350,4,3,17
+1989,WACoast,Quillayute,fall,12350,4,3,17
+1990,WACoast,Quillayute,fall,12350,4,3,17
+1991,WACoast,Quillayute,fall,5681,4,3,17
+1992,WACoast,Quillayute,fall,5681,4,3,17
+1993,WACoast,Quillayute,fall,5681,4,3,17
+1994,WACoast,Quillayute,fall,5681,4,3,17
+1995,WACoast,Quillayute,fall,5681,4,3,17
+1996,WACoast,Quillayute,fall,7316,4,3,17
+1997,WACoast,Quillayute,fall,5405,4,3,17
+1998,WACoast,Quillayute,fall,6752,4,3,17
+1999,WACoast,Quillayute,fall,3334,4,3,17
+2000,WACoast,Quillayute,fall,3730,4,3,17
+2001,WACoast,Quillayute,fall,5136,4,3,17
+2002,WACoast,Quillayute,fall,6067,4,3,17
+2003,WACoast,Quillayute,fall,7398,4,3,17
+2004,WACoast,Quillayute,fall,3831,4,3,17
+2005,WACoast,Quillayute,fall,6406,4,3,17
+2006,WACoast,Quillayute,fall,5642,4,3,17
+2007,WACoast,Quillayute,fall,3066,4,3,17
+2008,WACoast,Quillayute,fall,3612,4,3,17
+2009,WACoast,Quillayute,fall,3130,4,3,17
+2010,WACoast,Quillayute,fall,4635,4,3,17
+2011,WACoast,Quillayute,fall,3963,4,3,17
+2012,WACoast,Quillayute,fall,3518,4,3,17
+2013,WACoast,Quillayute,fall,4017,4,3,17
+2014,WACoast,Quillayute,fall,2782,4,3,17
+2015,WACoast,Quillayute,fall,3098,4,3,17
+1976,WACoast,Quinalt,Fall,4320,4,3,18
+1977,WACoast,Quinalt,Fall,4320,4,3,18
+1978,WACoast,Quinalt,Fall,4320,4,3,18
+1979,WACoast,Quinalt,Fall,4320,4,3,18
+1980,WACoast,Quinalt,Fall,4320,4,3,18
+1981,WACoast,Quinalt,Fall,5100,4,3,18
+1982,WACoast,Quinalt,Fall,5100,4,3,18
+1983,WACoast,Quinalt,Fall,5100,4,3,18
+1984,WACoast,Quinalt,Fall,5100,4,3,18
+1985,WACoast,Quinalt,Fall,5100,4,3,18
+1986,WACoast,Quinalt,Fall,8822,4,3,18
+1987,WACoast,Quinalt,Fall,8822,4,3,18
+1988,WACoast,Quinalt,Fall,8822,4,3,18
+1989,WACoast,Quinalt,Fall,8822,4,3,18
+1990,WACoast,Quinalt,Fall,8822,4,3,18
+1991,WACoast,Quinalt,Fall,6293,4,3,18
+1992,WACoast,Quinalt,Fall,6293,4,3,18
+1993,WACoast,Quinalt,Fall,6293,4,3,18
+1994,WACoast,Quinalt,Fall,6293,4,3,18
+1995,WACoast,Quinalt,Fall,6293,4,3,18
+1996,WACoast,Quinalt,Fall,5221,4,3,18
+1997,WACoast,Quinalt,Fall,2625,4,3,18
+1998,WACoast,Quinalt,Fall,6124,4,3,18
+1999,WACoast,Quinalt,Fall,4840,4,3,18
+2000,WACoast,Quinalt,Fall,3421,4,3,18
+2001,WACoast,Quinalt,Fall,4047,4,3,18
+2002,WACoast,Quinalt,Fall,4542,4,3,18
+2003,WACoast,Quinalt,Fall,7343,4,3,18
+2004,WACoast,Quinalt,Fall,10662,4,3,18
+2005,WACoast,Quinalt,Fall,7648,4,3,18
+2006,WACoast,Quinalt,Fall,7044,4,3,18
+2007,WACoast,Quinalt,Fall,2126,4,3,18
+2008,WACoast,Quinalt,Fall,3682,4,3,18
+2009,WACoast,Quinalt,Fall,5455,4,3,18
+2010,WACoast,Quinalt,Fall,4521,4,3,18
+2011,WACoast,Quinalt,Fall,5998,4,3,18
+2012,WACoast,Quinalt,Fall,5090,4,3,18
+2013,WACoast,Quinalt,Fall,7148,4,3,18
+2014,WACoast,Quinalt,Fall,12349,4,3,18
+2015,WACoast,Quinalt,Fall,11574,4,3,18
+1976,WACoast,Quinalt,Spring,149,4,1,18
+1977,WACoast,Quinalt,Spring,149,4,1,18
+1978,WACoast,Quinalt,Spring,149,4,1,18
+1979,WACoast,Quinalt,Spring,149,4,1,18
+1980,WACoast,Quinalt,Spring,149,4,1,18
+1981,WACoast,Quinalt,Spring,114,4,1,18
+1982,WACoast,Quinalt,Spring,114,4,1,18
+1983,WACoast,Quinalt,Spring,114,4,1,18
+1984,WACoast,Quinalt,Spring,114,4,1,18
+1985,WACoast,Quinalt,Spring,114,4,1,18
+1986,WACoast,Quinalt,Spring,338,4,1,18
+1987,WACoast,Quinalt,Spring,338,4,1,18
+1988,WACoast,Quinalt,Spring,338,4,1,18
+1989,WACoast,Quinalt,Spring,338,4,1,18
+1990,WACoast,Quinalt,Spring,338,4,1,18
+1991,WACoast,Quinalt,Spring,98,4,1,18
+1992,WACoast,Quinalt,Spring,98,4,1,18
+1993,WACoast,Quinalt,Spring,98,4,1,18
+1994,WACoast,Quinalt,Spring,98,4,1,18
+1995,WACoast,Quinalt,Spring,98,4,1,18
+1996,WACoast,Quinalt,Spring,41,4,1,18
+1997,WACoast,Quinalt,Spring,19,4,1,18
+1998,WACoast,Quinalt,Spring,75,4,1,18
+1999,WACoast,Quinalt,Spring,10,4,1,18
+2000,WACoast,Quinalt,Spring,0,4,1,18
+2001,WACoast,Quinalt,Spring,5,4,1,18
+2002,WACoast,Quinalt,Spring,36,4,1,18
+2003,WACoast,Quinalt,Spring,92,4,1,18
+2004,WACoast,Quinalt,Spring,142,4,1,18
+2005,WACoast,Quinalt,Spring,24,4,1,18
+2006,WACoast,Quinalt,Spring,16,4,1,18
+2007,WACoast,Quinalt,Spring,20,4,1,18
+2008,WACoast,Quinalt,Spring,10,4,1,18
+2009,WACoast,Quinalt,Spring,43,4,1,18
+2010,WACoast,Quinalt,Spring,8,4,1,18
+2011,WACoast,Quinalt,Spring,26,4,1,18
+2012,WACoast,Quinalt,Spring,15,4,1,18
+2013,WACoast,Quinalt,Spring,20,4,1,18
+2014,WACoast,Quinalt,Spring,11,4,1,18
+1977,Oregon,Rogue,fall,27136,2,3,19
+1978,Oregon,Rogue_umpqua,fall,164416,2,3,20
+1979,Oregon,Rogue_umpqua,fall,172264,2,3,20
+1980,Oregon,Rogue_umpqua,fall,56733,2,3,20
+1981,Oregon,Rogue_umpqua,fall,80522,2,3,20
+1982,Oregon,Rogue_umpqua,fall,100633,2,3,20
+1983,Oregon,Rogue_umpqua,fall,41449,2,3,20
+1984,Oregon,Rogue_umpqua,fall,35741,2,3,20
+1985,Oregon,Rogue_umpqua,fall,40719,2,3,20
+1986,Oregon,Rogue_umpqua,fall,161266,2,3,20
+1987,Oregon,Rogue_umpqua,fall,142794,2,3,20
+1988,Oregon,Rogue_umpqua,fall,99336,2,3,20
+1989,Oregon,Rogue_umpqua,fall,81366,2,3,20
+1990,Oregon,Rogue_umpqua,fall,21399,2,3,20
+1991,Oregon,Rogue_umpqua,fall,17790,2,3,20
+1992,Oregon,Rogue_umpqua,fall,47104,2,3,20
+1993,Oregon,Rogue_umpqua,fall,41473,2,3,20
+1994,Oregon,Rogue_umpqua,fall,74846,2,3,20
+1995,Oregon,Rogue_umpqua,fall,68168,2,3,20
+1996,Oregon,Rogue_umpqua,fall,51211,2,3,20
+1997,Oregon,Rogue_umpqua,fall,42715,2,3,20
+1998,Oregon,Rogue_umpqua,fall,44540,2,3,20
+1999,Oregon,Rogue_umpqua,fall,40080,2,3,20
+2000,Oregon,Rogue_umpqua,fall,91149,2,3,20
+2001,Oregon,Rogue_umpqua,fall,82756,2,3,20
+2002,Oregon,Rogue_umpqua,fall,165979,2,3,20
+2003,Oregon,Rogue_umpqua,fall,219413,2,3,20
+2004,Oregon,Rogue_umpqua,fall,132296,2,3,20
+2005,Oregon,Rogue_umpqua,fall,56474,2,3,20
+2006,Oregon,Rogue_umpqua,fall,35075,2,3,20
+2007,Oregon,Rogue_umpqua,fall,43493,2,3,20
+2008,Oregon,Rogue_umpqua,fall,24309,2,3,20
+2009,Oregon,Rogue_umpqua,fall,60223,2,3,20
+2010,Oregon,Rogue_umpqua,fall,49390,2,3,20
+2011,Oregon,Rogue_umpqua,fall,67750,2,3,20
+2012,Oregon,Rogue_umpqua,fall,69060,2,3,20
+2013,Oregon,Rogue_umpqua,fall,81655,2,3,20
+2014,Oregon,Rogue_umpqua,fall,53518,2,3,20
+2015,Oregon,Rogue_umpqua,fall,31286,2,3,20
+1971,CenCal,SanJoaquin,Fall,13820,1,3,21
+1972,CenCal,SanJoaquin,Fall,13820,1,3,21
+1973,CenCal,SanJoaquin,Fall,13820,1,3,21
+1974,CenCal,SanJoaquin,Fall,13820,1,3,21
+1975,CenCal,SanJoaquin,Fall,13820,1,3,21
+1976,CenCal,SanJoaquin,Fall,2886,1,3,21
+1977,CenCal,SanJoaquin,Fall,2886,1,3,21
+1978,CenCal,SanJoaquin,Fall,2886,1,3,21
+1979,CenCal,SanJoaquin,Fall,2886,1,3,21
+1980,CenCal,SanJoaquin,Fall,2886,1,3,21
+1981,CenCal,SanJoaquin,Fall,34930,1,3,21
+1982,CenCal,SanJoaquin,Fall,34930,1,3,21
+1983,CenCal,SanJoaquin,Fall,34930,1,3,21
+1984,CenCal,SanJoaquin,Fall,34930,1,3,21
+1985,CenCal,SanJoaquin,Fall,34930,1,3,21
+1986,CenCal,SanJoaquin,Fall,10853,1,3,21
+1987,CenCal,SanJoaquin,Fall,10853,1,3,21
+1988,CenCal,SanJoaquin,Fall,10853,1,3,21
+1989,CenCal,SanJoaquin,Fall,10853,1,3,21
+1990,CenCal,SanJoaquin,Fall,10853,1,3,21
+1991,CenCal,SanJoaquin,Fall,2626,1,3,21
+1992,CenCal,SanJoaquin,Fall,2626,1,3,21
+1993,CenCal,SanJoaquin,Fall,2626,1,3,21
+1994,CenCal,SanJoaquin,Fall,2626,1,3,21
+1995,CenCal,SanJoaquin,Fall,2626,1,3,21
+1996,CenCal,SanJoaquin,Fall,5766,1,3,21
+1997,CenCal,SanJoaquin,Fall,17983,1,3,21
+1998,CenCal,SanJoaquin,Fall,12975,1,3,21
+1999,CenCal,SanJoaquin,Fall,10707,1,3,21
+2000,CenCal,SanJoaquin,Fall,36834,1,3,21
+2001,CenCal,SanJoaquin,Fall,23831,1,3,21
+2002,CenCal,SanJoaquin,Fall,21852,1,3,21
+2003,CenCal,SanJoaquin,Fall,14519,1,3,21
+2004,CenCal,SanJoaquin,Fall,7250,1,3,21
+2005,CenCal,SanJoaquin,Fall,15843,1,3,21
+2006,CenCal,SanJoaquin,Fall,5622,1,3,21
+2007,CenCal,SanJoaquin,Fall,1521,1,3,21
+2008,CenCal,SanJoaquin,Fall,2010,1,3,21
+2009,CenCal,SanJoaquin,Fall,1394,1,3,21
+2010,CenCal,SanJoaquin,Fall,4003,1,3,21
+2011,CenCal,SanJoaquin,Fall,2527,1,3,21
+2012,CenCal,SanJoaquin,Fall,10852,1,3,21
+2013,CenCal,SanJoaquin,Fall,12839,1,3,21
+2014,CenCal,SanJoaquin,Fall,4972,1,3,21
+2015,CenCal,SanJoaquin,Fall,8041,1,3,21
+1931,NorCal,ShastaArea,fall,37474,2,3,22
+1932,NorCal,ShastaArea,fall,37474,2,3,22
+1933,NorCal,ShastaArea,fall,37474,2,3,22
+1934,NorCal,ShastaArea,fall,37474,2,3,22
+1935,NorCal,ShastaArea,fall,37474,2,3,22
+1936,NorCal,ShastaArea,fall,26165,2,3,22
+1937,NorCal,ShastaArea,fall,26165,2,3,22
+1938,NorCal,ShastaArea,fall,26165,2,3,22
+1939,NorCal,ShastaArea,fall,26165,2,3,22
+1940,NorCal,ShastaArea,fall,26165,2,3,22
+1941,NorCal,ShastaArea,fall,9654,2,3,22
+1942,NorCal,ShastaArea,fall,9654,2,3,22
+1943,NorCal,ShastaArea,fall,9654,2,3,22
+1944,NorCal,ShastaArea,fall,9654,2,3,22
+1945,NorCal,ShastaArea,fall,9654,2,3,22
+1946,NorCal,ShastaArea,fall,1862,2,3,22
+1947,NorCal,ShastaArea,fall,1862,2,3,22
+1948,NorCal,ShastaArea,fall,1862,2,3,22
+1949,NorCal,ShastaArea,fall,1862,2,3,22
+1950,NorCal,ShastaArea,fall,1862,2,3,22
+1951,NorCal,ShastaArea,fall,1577,2,3,22
+1952,NorCal,ShastaArea,fall,1577,2,3,22
+1953,NorCal,ShastaArea,fall,1577,2,3,22
+1954,NorCal,ShastaArea,fall,1577,2,3,22
+1955,NorCal,ShastaArea,fall,1577,2,3,22
+1956,NorCal,ShastaArea,fall,6146,2,3,22
+1957,NorCal,ShastaArea,fall,6146,2,3,22
+1958,NorCal,ShastaArea,fall,6146,2,3,22
+1959,NorCal,ShastaArea,fall,6146,2,3,22
+1960,NorCal,ShastaArea,fall,6146,2,3,22
+1961,NorCal,ShastaArea,fall,15167,2,3,22
+1962,NorCal,ShastaArea,fall,15167,2,3,22
+1963,NorCal,ShastaArea,fall,15167,2,3,22
+1964,NorCal,ShastaArea,fall,15167,2,3,22
+1965,NorCal,ShastaArea,fall,15167,2,3,22
+1966,NorCal,ShastaArea,fall,10472,2,3,22
+1967,NorCal,ShastaArea,fall,10472,2,3,22
+1968,NorCal,ShastaArea,fall,10472,2,3,22
+1969,NorCal,ShastaArea,fall,10472,2,3,22
+1970,NorCal,ShastaArea,fall,10472,2,3,22
+1971,NorCal,ShastaArea,fall,6297,2,3,22
+1972,NorCal,ShastaArea,fall,6297,2,3,22
+1973,NorCal,ShastaArea,fall,6297,2,3,22
+1974,NorCal,ShastaArea,fall,6297,2,3,22
+1975,NorCal,ShastaArea,fall,6297,2,3,22
+1976,NorCal,ShastaArea,fall,7973,2,3,22
+1977,NorCal,ShastaArea,fall,7973,2,3,22
+1978,NorCal,ShastaArea,fall,7973,2,3,22
+1979,NorCal,ShastaArea,fall,7973,2,3,22
+1980,NorCal,ShastaArea,fall,7973,2,3,22
+1981,NorCal,ShastaArea,fall,5847,2,3,22
+1982,NorCal,ShastaArea,fall,5847,2,3,22
+1983,NorCal,ShastaArea,fall,5847,2,3,22
+1984,NorCal,ShastaArea,fall,5847,2,3,22
+1985,NorCal,ShastaArea,fall,5847,2,3,22
+1986,NorCal,ShastaArea,fall,5764,2,3,22
+1987,NorCal,ShastaArea,fall,5764,2,3,22
+1988,NorCal,ShastaArea,fall,5764,2,3,22
+1989,NorCal,ShastaArea,fall,5764,2,3,22
+1990,NorCal,ShastaArea,fall,5764,2,3,22
+1991,NorCal,ShastaArea,fall,4977,2,3,22
+1992,NorCal,ShastaArea,fall,4977,2,3,22
+1993,NorCal,ShastaArea,fall,4977,2,3,22
+1994,NorCal,ShastaArea,fall,4977,2,3,22
+1995,NorCal,ShastaArea,fall,4977,2,3,22
+1991,NorCal,ShastaArea,fall,2053,2,3,22
+1992,NorCal,ShastaArea,fall,1298,2,3,22
+1993,NorCal,ShastaArea,fall,4418,2,3,22
+1994,NorCal,ShastaArea,fall,6579,2,3,22
+1995,NorCal,ShastaArea,fall,16956,2,3,22
+1996,NorCal,ShastaArea,fall,6593,2,3,22
+1997,NorCal,ShastaArea,fall,7450,2,3,22
+1998,NorCal,ShastaArea,fall,3803,2,3,22
+1999,NorCal,ShastaArea,fall,1966,2,3,22
+2000,NorCal,ShastaArea,fall,12569,2,3,22
+2001,NorCal,ShastaArea,fall,11059,2,3,22
+2002,NorCal,ShastaArea,fall,9101,2,3,22
+2003,NorCal,ShastaArea,fall,7436,2,3,22
+2004,NorCal,ShastaArea,fall,1115,2,3,22
+2005,NorCal,ShastaArea,fall,2419,2,3,22
+2006,NorCal,ShastaArea,fall,2067,2,3,22
+2007,NorCal,ShastaArea,fall,3386,2,3,22
+2008,NorCal,ShastaArea,fall,4490,2,3,22
+2009,NorCal,ShastaArea,fall,8349,2,3,22
+2010,NorCal,ShastaArea,fall,3737,2,3,22
+2011,NorCal,ShastaArea,fall,3887,2,3,22
+2012,NorCal,ShastaArea,fall,31161,2,3,22
+2013,NorCal,ShastaArea,fall,9165,2,3,22
+2014,NorCal,ShastaArea,fall,17118,2,3,22
+2015,NorCal,ShastaArea,fall,8590,2,3,22
+1981,SalishSea,Skagit,Fall,12493,5,3,23
+1982,SalishSea,Skagit,Fall,12493,5,3,23
+1983,SalishSea,Skagit,Fall,12493,5,3,23
+1984,SalishSea,Skagit,Fall,12493,5,3,23
+1985,SalishSea,Skagit,Fall,12493,5,3,23
+1986,SalishSea,Skagit,Fall,13464,5,3,23
+1987,SalishSea,Skagit,Fall,13464,5,3,23
+1988,SalishSea,Skagit,Fall,13464,5,3,23
+1989,SalishSea,Skagit,Fall,13464,5,3,23
+1990,SalishSea,Skagit,Fall,13464,5,3,23
+1991,SalishSea,Skagit,Fall,9146,5,3,23
+1992,SalishSea,Skagit,Fall,9146,5,3,23
+1993,SalishSea,Skagit,Fall,9146,5,3,23
+1994,SalishSea,Skagit,Fall,9146,5,3,23
+1995,SalishSea,Skagit,Fall,9146,5,3,23
+1996,SalishSea,Skagit,Fall,10716,5,3,23
+1997,SalishSea,Skagit,Fall,10716,5,3,23
+1998,SalishSea,Skagit,Fall,10716,5,3,23
+1999,SalishSea,Skagit,Fall,10716,5,3,23
+2000,SalishSea,Skagit,Fall,10716,5,3,23
+2001,SalishSea,Skagit,Fall,17736,5,3,23
+2002,SalishSea,Skagit,Fall,17736,5,3,23
+2003,SalishSea,Skagit,Fall,17736,5,3,23
+2004,SalishSea,Skagit,Fall,17736,5,3,23
+2005,SalishSea,Skagit,Fall,17736,5,3,23
+2006,SalishSea,Skagit,Fall,21166,5,3,23
+2007,SalishSea,Skagit,Fall,11705,5,3,23
+2008,SalishSea,Skagit,Fall,11875,5,3,23
+2009,SalishSea,Skagit,Fall,7113,5,3,23
+2010,SalishSea,Skagit,Fall,8102,5,3,23
+2011,SalishSea,Skagit,Fall,5648,5,3,23
+2012,SalishSea,Skagit,Fall,13911,5,3,23
+2013,SalishSea,Skagit,Fall,10969,5,3,23
+2014,SalishSea,Skagit,Fall,8672,5,3,23
+1981,SalishSea,Skagit,Fall,2145,5,3,23
+1982,SalishSea,Skagit,Fall,2145,5,3,23
+1983,SalishSea,Skagit,Fall,2145,5,3,23
+1984,SalishSea,Skagit,Fall,2145,5,3,23
+1985,SalishSea,Skagit,Fall,2145,5,3,23
+1986,SalishSea,Skagit,Fall,3035,5,3,23
+1987,SalishSea,Skagit,Fall,3035,5,3,23
+1988,SalishSea,Skagit,Fall,3035,5,3,23
+1989,SalishSea,Skagit,Fall,3035,5,3,23
+1990,SalishSea,Skagit,Fall,3035,5,3,23
+1991,SalishSea,Skagit,Fall,4064,5,3,23
+1992,SalishSea,Skagit,Fall,4064,5,3,23
+1993,SalishSea,Skagit,Fall,4064,5,3,23
+1994,SalishSea,Skagit,Fall,4064,5,3,23
+1995,SalishSea,Skagit,Fall,4064,5,3,23
+1996,SalishSea,Skagit,Fall,5352,5,3,23
+1997,SalishSea,Skagit,Fall,6185,5,3,23
+1998,SalishSea,Skagit,Fall,6658,5,3,23
+1999,SalishSea,Skagit,Fall,10300,5,3,23
+2000,SalishSea,Skagit,Fall,8654,5,3,23
+2001,SalishSea,Skagit,Fall,14788,5,3,23
+2002,SalishSea,Skagit,Fall,14504,5,3,23
+2003,SalishSea,Skagit,Fall,13799,5,3,23
+2004,SalishSea,Skagit,Fall,13160,5,3,23
+2005,SalishSea,Skagit,Fall,11037,5,3,23
+2006,SalishSea,Skagit,Fall,9951,5,3,23
+2007,SalishSea,Skagit,Fall,13170,5,3,23
+2008,SalishSea,Skagit,Fall,9762,5,3,23
+2009,SalishSea,Skagit,Fall,7246,5,3,23
+2010,SalishSea,Skagit,Fall,8796,5,3,23
+2011,SalishSea,Skagit,Fall,8157,5,3,23
+2012,SalishSea,Skagit,Fall,10919,5,3,23
+2013,SalishSea,Skagit,Fall,13700,5,3,23
+2014,SalishSea,Skagit,Fall,6862,5,3,23
+2015,SalishSea,Skagit,Fall,9176,5,3,23
+1961,Oregon,SouthCoast,fall,28,2,3,24
+1962,Oregon,SouthCoast,fall,28,2,3,24
+1963,Oregon,SouthCoast,fall,28,2,3,24
+1964,Oregon,SouthCoast,fall,28,2,3,24
+1965,Oregon,SouthCoast,fall,28,2,3,24
+1966,Oregon,SouthCoast,fall,67,2,3,24
+1967,Oregon,SouthCoast,fall,67,2,3,24
+1968,Oregon,SouthCoast,fall,67,2,3,24
+1969,Oregon,SouthCoast,fall,67,2,3,24
+1970,Oregon,SouthCoast,fall,67,2,3,24
+1971,Oregon,SouthCoast,fall,371,2,3,24
+1972,Oregon,SouthCoast,fall,371,2,3,24
+1973,Oregon,SouthCoast,fall,371,2,3,24
+1974,Oregon,SouthCoast,fall,371,2,3,24
+1975,Oregon,SouthCoast,fall,371,2,3,24
+1976,Oregon,SouthCoast,fall,209,2,3,24
+1977,Oregon,SouthCoast,fall,209,2,3,24
+1978,Oregon,SouthCoast,fall,209,2,3,24
+1979,Oregon,SouthCoast,fall,209,2,3,24
+1980,Oregon,SouthCoast,fall,209,2,3,24
+1981,Oregon,SouthCoast,fall,144,2,3,24
+1982,Oregon,SouthCoast,fall,144,2,3,24
+1983,Oregon,SouthCoast,fall,144,2,3,24
+1984,Oregon,SouthCoast,fall,144,2,3,24
+1985,Oregon,SouthCoast,fall,144,2,3,24
+1986,Oregon,SouthCoast,fall,103,2,3,24
+1987,Oregon,SouthCoast,fall,103,2,3,24
+1988,Oregon,SouthCoast,fall,103,2,3,24
+1989,Oregon,SouthCoast,fall,103,2,3,24
+1990,Oregon,SouthCoast,fall,103,2,3,24
+1991,Oregon,SouthCoast,fall,148,2,3,24
+1992,Oregon,SouthCoast,fall,148,2,3,24
+1993,Oregon,SouthCoast,fall,148,2,3,24
+1994,Oregon,SouthCoast,fall,148,2,3,24
+1995,Oregon,SouthCoast,fall,148,2,3,24
+1996,Oregon,SouthCoast,fall,272,2,3,24
+1997,Oregon,SouthCoast,fall,132,2,3,24
+1998,Oregon,SouthCoast,fall,170,2,3,24
+1999,Oregon,SouthCoast,fall,116,2,3,24
+2000,Oregon,SouthCoast,fall,145,2,3,24
+2001,Oregon,SouthCoast,fall,121,2,3,24
+2002,Oregon,SouthCoast,fall,214,2,3,24
+2003,Oregon,SouthCoast,fall,87,2,3,24
+2004,Oregon,SouthCoast,fall,199,2,3,24
+2005,Oregon,SouthCoast,fall,47,2,3,24
+2006,Oregon,SouthCoast,fall,74,2,3,24
+2007,Oregon,SouthCoast,fall,93,2,3,24
+2008,Oregon,SouthCoast,fall,41,2,3,24
+2009,Oregon,SouthCoast,fall,212,2,3,24
+2010,Oregon,SouthCoast,fall,167,2,3,24
+2011,Oregon,SouthCoast,fall,113,2,3,24
+2012,Oregon,SouthCoast,fall,124,2,3,24
+2013,Oregon,SouthCoast,fall,74,2,3,24
+2014,Oregon,SouthCoast,fall,109,2,3,24
+2015,Oregon,SouthCoast,fall,193,2,3,24
+1981,SalishSea,Stilliguamish/Snohomish,Fall,10145,5,3,25
+1982,SalishSea,Stilliguamish/Snohomish,Fall,10145,5,3,25
+1983,SalishSea,Stilliguamish/Snohomish,Fall,10145,5,3,25
+1984,SalishSea,Stilliguamish/Snohomish,Fall,10145,5,3,25
+1985,SalishSea,Stilliguamish/Snohomish,Fall,10145,5,3,25
+1986,SalishSea,Stilliguamish/Snohomish,Fall,10198,5,3,25
+1987,SalishSea,Stilliguamish/Snohomish,Fall,10198,5,3,25
+1988,SalishSea,Stilliguamish/Snohomish,Fall,10198,5,3,25
+1989,SalishSea,Stilliguamish/Snohomish,Fall,10198,5,3,25
+1990,SalishSea,Stilliguamish/Snohomish,Fall,10198,5,3,25
+1991,SalishSea,Stilliguamish/Snohomish,Fall,10901,5,3,25
+1992,SalishSea,Stilliguamish/Snohomish,Fall,10901,5,3,25
+1993,SalishSea,Stilliguamish/Snohomish,Fall,10901,5,3,25
+1994,SalishSea,Stilliguamish/Snohomish,Fall,10901,5,3,25
+1995,SalishSea,Stilliguamish/Snohomish,Fall,10901,5,3,25
+1996,SalishSea,Stilliguamish/Snohomish,Fall,18280,5,3,25
+1997,SalishSea,Stilliguamish/Snohomish,Fall,18280,5,3,25
+1998,SalishSea,Stilliguamish/Snohomish,Fall,18280,5,3,25
+1999,SalishSea,Stilliguamish/Snohomish,Fall,18280,5,3,25
+2000,SalishSea,Stilliguamish/Snohomish,Fall,18280,5,3,25
+2001,SalishSea,Stilliguamish/Snohomish,Fall,15165,5,3,25
+2002,SalishSea,Stilliguamish/Snohomish,Fall,15165,5,3,25
+2003,SalishSea,Stilliguamish/Snohomish,Fall,15165,5,3,25
+2004,SalishSea,Stilliguamish/Snohomish,Fall,15165,5,3,25
+2005,SalishSea,Stilliguamish/Snohomish,Fall,15165,5,3,25
+2006,SalishSea,Stilliguamish/Snohomish,Fall,18883,5,3,25
+2007,SalishSea,Stilliguamish/Snohomish,Fall,16743,5,3,25
+2008,SalishSea,Stilliguamish/Snohomish,Fall,19452,5,3,25
+2009,SalishSea,Stilliguamish/Snohomish,Fall,6990,5,3,25
+2010,SalishSea,Stilliguamish/Snohomish,Fall,11223,5,3,25
+2011,SalishSea,Stilliguamish/Snohomish,Fall,10862,5,3,25
+2012,SalishSea,Stilliguamish/Snohomish,Fall,12214,5,3,25
+2013,SalishSea,Stilliguamish/Snohomish,Fall,10932,5,3,25
+2014,SalishSea,Stilliguamish/Snohomish,Fall,10526,5,3,25
+1979,WEAK,Susitna,summer,60606.1,8,2,26
+1980,WEAK,Susitna,summer,35151.5,8,2,26
+1981,WEAK,Susitna,summer,23030.3,8,2,26
+1982,WEAK,Susitna,summer,37272.7,8,2,26
+1983,WEAK,Susitna,summer,44242.4,8,2,26
+1984,WEAK,Susitna,summer,39697,8,2,26
+1985,WEAK,Susitna,summer,41818.2,8,2,26
+1986,WEAK,Susitna,summer,47575.8,8,2,26
+1987,WEAK,Susitna,summer,34848.5,8,2,26
+1988,WEAK,Susitna,summer,43939.4,8,2,26
+1989,WEAK,Susitna,summer,23030.3,8,2,26
+1990,WEAK,Susitna,summer,41515.2,8,2,26
+1991,WEAK,Susitna,summer,20606.1,8,2,26
+1992,WEAK,Susitna,summer,20000,8,2,26
+1993,WEAK,Susitna,summer,16060.6,8,2,26
+1994,WEAK,Susitna,summer,9696.97,8,2,26
+1995,WEAK,Susitna,summer,9696.97,8,2,26
+1996,WEAK,Susitna,summer,14242.4,8,2,26
+1997,WEAK,Susitna,summer,36060.6,8,2,26
+1998,WEAK,Susitna,summer,36363.6,8,2,26
+1999,WEAK,Susitna,summer,29090.9,8,2,26
+2000,WEAK,Susitna,summer,34242.4,8,2,26
+2001,WEAK,Susitna,summer,27878.8,8,2,26
+2002,WEAK,Susitna,summer,28484.8,8,2,26
+2003,WEAK,Susitna,summer,39393.9,8,2,26
+2004,WEAK,Susitna,summer,56969.7,8,2,26
+2005,WEAK,Susitna,summer,36666.7,8,2,26
+2006,WEAK,Susitna,summer,30000,8,2,26
+2007,WEAK,Susitna,summer,17272.7,8,2,26
+2008,WEAK,Susitna,summer,6363.64,8,2,26
+2009,WEAK,Susitna,summer,11212.1,8,2,26
+2010,WEAK,Susitna,summer,18181.8,8,2,26
+1992,WEAK,Susitna,summer,20000,8,2,26
+1993,WEAK,Susitna,summer,16060.6,8,2,26
+1994,WEAK,Susitna,summer,9696.97,8,2,26
+1995,WEAK,Susitna,summer,9696.97,8,2,26
+1996,WEAK,Susitna,summer,14242.4,8,2,26
+1997,WEAK,Susitna,summer,36060.6,8,2,26
+1998,WEAK,Susitna,summer,36363.6,8,2,26
+1999,WEAK,Susitna,summer,29090.9,8,2,26
+2000,WEAK,Susitna,summer,34242.4,8,2,26
+2001,WEAK,Susitna,summer,27878.8,8,2,26
+2002,WEAK,Susitna,summer,28484.8,8,2,26
+2003,WEAK,Susitna,summer,39393.9,8,2,26
+2004,WEAK,Susitna,summer,56969.7,8,2,26
+2005,WEAK,Susitna,summer,36666.7,8,2,26
+2006,WEAK,Susitna,summer,30000,8,2,26
+2007,WEAK,Susitna,summer,17272.7,8,2,26
+2008,WEAK,Susitna,summer,6363.64,8,2,26
+2009,WEAK,Susitna,summer,11212.1,8,2,26
+2010,WEAK,Susitna,summer,18181.8,8,2,26
+1971,CenCal,UpperSac,Fall,151286,1,3,27
+1972,CenCal,UpperSac,Fall,151286,1,3,27
+1973,CenCal,UpperSac,Fall,151286,1,3,27
+1974,CenCal,UpperSac,Fall,151286,1,3,27
+1975,CenCal,UpperSac,Fall,151286,1,3,27
+1976,CenCal,UpperSac,Fall,136862,1,3,27
+1977,CenCal,UpperSac,Fall,136862,1,3,27
+1978,CenCal,UpperSac,Fall,136862,1,3,27
+1979,CenCal,UpperSac,Fall,136862,1,3,27
+1980,CenCal,UpperSac,Fall,136862,1,3,27
+1981,CenCal,UpperSac,Fall,139322,1,3,27
+1982,CenCal,UpperSac,Fall,139322,1,3,27
+1983,CenCal,UpperSac,Fall,139322,1,3,27
+1984,CenCal,UpperSac,Fall,139322,1,3,27
+1985,CenCal,UpperSac,Fall,139322,1,3,27
+1986,CenCal,UpperSac,Fall,159786,1,3,27
+1987,CenCal,UpperSac,Fall,159786,1,3,27
+1988,CenCal,UpperSac,Fall,159786,1,3,27
+1989,CenCal,UpperSac,Fall,159786,1,3,27
+1990,CenCal,UpperSac,Fall,159786,1,3,27
+1991,CenCal,UpperSac,Fall,129587,1,3,27
+1992,CenCal,UpperSac,Fall,129587,1,3,27
+1993,CenCal,UpperSac,Fall,129587,1,3,27
+1994,CenCal,UpperSac,Fall,129587,1,3,27
+1995,CenCal,UpperSac,Fall,129587,1,3,27
+1996,CenCal,UpperSac,Fall,267072,1,3,27
+1997,CenCal,UpperSac,Fall,279600,1,3,27
+1998,CenCal,UpperSac,Fall,168144,1,3,27
+1999,CenCal,UpperSac,Fall,353718,1,3,27
+2000,CenCal,UpperSac,Fall,369214,1,3,27
+2001,CenCal,UpperSac,Fall,537415,1,3,27
+2002,CenCal,UpperSac,Fall,682695,1,3,27
+2003,CenCal,UpperSac,Fall,413438,1,3,27
+2004,CenCal,UpperSac,Fall,203478,1,3,27
+2005,CenCal,UpperSac,Fall,210706,1,3,27
+2006,CenCal,UpperSac,Fall,195124,1,3,27
+2007,CenCal,UpperSac,Fall,69998,1,3,27
+2008,CenCal,UpperSac,Fall,46852,1,3,27
+2009,CenCal,UpperSac,Fall,23337,1,3,27
+2010,CenCal,UpperSac,Fall,84568,1,3,27
+2011,CenCal,UpperSac,Fall,76471,1,3,27
+2012,CenCal,UpperSac,Fall,163165,1,3,27
+2013,CenCal,UpperSac,Fall,301520,1,3,27
+2014,CenCal,UpperSac,Fall,167719,1,3,27
+2015,CenCal,UpperSac,Fall,73123,1,3,27
+2001,CenCal,UpperSac,late-Fall,7443,1,3,27
+2002,CenCal,UpperSac,late-Fall,7047,1,3,27
+2003,CenCal,UpperSac,late-Fall,7675,1,3,27
+2004,CenCal,UpperSac,late-Fall,5786,1,3,27
+2005,CenCal,UpperSac,late-Fall,14683,1,3,27
+2006,CenCal,UpperSac,late-Fall,16764,1,3,27
+2007,CenCal,UpperSac,late-Fall,2402,1,3,27
+2008,CenCal,UpperSac,late-Fall,2521,1,3,27
+2009,CenCal,UpperSac,late-Fall,4363,1,3,27
+2010,CenCal,UpperSac,late-Fall,1555,1,3,27
+2011,CenCal,UpperSac,late-Fall,637,1,3,27
+2012,CenCal,UpperSac,late-Fall,2527,1,3,27
+2013,CenCal,UpperSac,late-Fall,5623,1,3,27
+2014,CenCal,UpperSac,late-Fall,2688,1,3,27
+2015,CenCal,UpperSac,late-Fall,3382,1,3,27
+1975,SalishSea,Fraser,Spring,7048.381293,5,1,27
+1976,SalishSea,Fraser,Spring,4628.226237,5,1,27
+1977,SalishSea,Fraser,Spring,3860.035547,5,1,27
+1978,SalishSea,Fraser,Spring,4413.688951,5,1,27
+1979,SalishSea,Fraser,Spring,2984.439913,5,1,27
+1980,SalishSea,Fraser,Spring,6291.639861,5,1,27
+1981,SalishSea,Fraser,Spring,3100.568101,5,1,27
+1982,SalishSea,Fraser,Spring,5636.578744,5,1,27
+1983,SalishSea,Fraser,Spring,2665.496298,5,1,27
+1984,SalishSea,Fraser,Spring,6523.351034,5,1,27
+1985,SalishSea,Fraser,Spring,9609.471262,5,1,27
+1986,SalishSea,Fraser,Spring,10383.38658,5,1,27
+1987,SalishSea,Fraser,Spring,4989.695668,5,1,27
+1988,SalishSea,Fraser,Spring,4221.504978,5,1,27
+1989,SalishSea,Fraser,Spring,5986.598916,5,1,27
+1990,SalishSea,Fraser,Spring,3345.909344,5,1,27
+1991,SalishSea,Fraser,Spring,3679.846035,5,1,27
+1992,SalishSea,Fraser,Spring,6105.453118,5,1,27
+1993,SalishSea,Fraser,Spring,7980.405413,5,1,27
+1994,SalishSea,Fraser,Spring,10956.66728,5,1,27
+1995,SalishSea,Fraser,Spring,9857.81112,5,1,27
+1996,SalishSea,Fraser,Spring,20653.64359,5,1,27
+1997,SalishSea,Fraser,Spring,10084.07027,5,1,27
+1998,SalishSea,Fraser,Spring,3258.676902,5,1,27
+1999,SalishSea,Fraser,Spring,8878.35436,5,1,27
+2000,SalishSea,Fraser,Spring,11854.61623,5,1,27
+2001,SalishSea,Fraser,Spring,10866.43623,5,1,27
+2002,SalishSea,Fraser,Spring,17036.49587,5,1,27
+2003,SalishSea,Fraser,Spring,19131.71008,5,1,27
+2004,SalishSea,Fraser,Spring,12416.72028,5,1,27
+2005,SalishSea,Fraser,Spring,4269.755422,5,1,27
+2006,SalishSea,Fraser,Spring,6805.493463,5,1,27
+2007,SalishSea,Fraser,Spring,1522.206108,5,1,27
+2008,SalishSea,Fraser,Spring,6260.563303,5,1,27
+2009,SalishSea,Fraser,Spring,977.0033475,5,1,27
+2010,SalishSea,Fraser,Spring,6706.811763,5,1,27
+2011,SalishSea,Fraser,Spring,2524.561384,5,1,27
+2012,SalishSea,Fraser,Spring,7593.311453,5,1,27
+2013,SalishSea,Fraser,Spring,3081.213403,5,1,27
+2014,SalishSea,Fraser,Spring,9471.262362,5,1,27
+1975,SalishSea,Fraser,Spring,8830.981891,5,1,27
+1976,SalishSea,Fraser,Spring,10896.15902,5,1,27
+1977,SalishSea,Fraser,Spring,13740.54043,5,1,27
+1978,SalishSea,Fraser,Spring,16066.72241,5,1,27
+1979,SalishSea,Fraser,Spring,15272.27697,5,1,27
+1980,SalishSea,Fraser,Spring,17076.44923,5,1,27
+1981,SalishSea,Fraser,Spring,12648.25732,5,1,27
+1982,SalishSea,Fraser,Spring,15232.90397,5,1,27
+1983,SalishSea,Fraser,Spring,24568.11422,5,1,27
+1984,SalishSea,Fraser,Spring,30529.31277,5,1,27
+1985,SalishSea,Fraser,Spring,42983.88036,5,1,27
+1986,SalishSea,Fraser,Spring,48425.60938,5,1,27
+1987,SalishSea,Fraser,Spring,48412.90842,5,1,27
+1988,SalishSea,Fraser,Spring,41645.83355,5,1,27
+1989,SalishSea,Fraser,Spring,31761.94155,5,1,27
+1990,SalishSea,Fraser,Spring,41617.89143,5,1,27
+1991,SalishSea,Fraser,Spring,27318.50848,5,1,27
+1992,SalishSea,Fraser,Spring,33280.97713,5,1,27
+1993,SalishSea,Fraser,Spring,33007.2713,5,1,27
+1994,SalishSea,Fraser,Spring,51434.46831,5,1,27
+1995,SalishSea,Fraser,Spring,45188.13306,5,1,27
+1996,SalishSea,Fraser,Spring,38421.0582,5,1,27
+1997,SalishSea,Fraser,Spring,44382.25675,5,1,27
+1998,SalishSea,Fraser,Spring,38395.65627,5,1,27
+1999,SalishSea,Fraser,Spring,20720.99152,5,1,27
+2000,SalishSea,Fraser,Spring,26682.19007,5,1,27
+2001,SalishSea,Fraser,Spring,30823.97519,5,1,27
+2002,SalishSea,Fraser,Spring,41459.12935,5,1,27
+2003,SalishSea,Fraser,Spring,46899.58828,5,1,27
+2004,SalishSea,Fraser,Spring,31562.53638,5,1,27
+2005,SalishSea,Fraser,Spring,21679.91448,5,1,27
+2006,SalishSea,Fraser,Spring,21406.20866,5,1,27
+2007,SalishSea,Fraser,Spring,12041.78618,5,1,27
+2008,SalishSea,Fraser,Spring,15665.37187,5,1,27
+2009,SalishSea,Fraser,Spring,26301.79613,5,1,27
+2010,SalishSea,Fraser,Spring,17976.3127,5,1,27
+2011,SalishSea,Fraser,Spring,12250.71708,5,1,27
+2012,SalishSea,Fraser,Spring,10939.3423,5,1,27
+2013,SalishSea,Fraser,Spring,16896.73056,5,1,27
+2014,SalishSea,Fraser,Spring,32987.58481,5,1,27
+1975,SalishSea,Fraser,Summer,17161.01695,5,2,27
+1976,SalishSea,Fraser,Summer,13983.05085,5,2,27
+1977,SalishSea,Fraser,Summer,17584.74576,5,2,27
+1978,SalishSea,Fraser,Summer,19491.52542,5,2,27
+1979,SalishSea,Fraser,Summer,10593.22034,5,2,27
+1980,SalishSea,Fraser,Summer,13983.05085,5,2,27
+1981,SalishSea,Fraser,Summer,12711.86441,5,2,27
+1982,SalishSea,Fraser,Summer,15466.10169,5,2,27
+1983,SalishSea,Fraser,Summer,17161.01695,5,2,27
+1984,SalishSea,Fraser,Summer,13771.18644,5,2,27
+1985,SalishSea,Fraser,Summer,19703.38983,5,2,27
+1986,SalishSea,Fraser,Summer,32203.38983,5,2,27
+1987,SalishSea,Fraser,Summer,27966.10169,5,2,27
+1988,SalishSea,Fraser,Summer,31991.52542,5,2,27
+1989,SalishSea,Fraser,Summer,16737.28814,5,2,27
+1990,SalishSea,Fraser,Summer,33898.30508,5,2,27
+1991,SalishSea,Fraser,Summer,27966.10169,5,2,27
+1992,SalishSea,Fraser,Summer,37923.72881,5,2,27
+1993,SalishSea,Fraser,Summer,21398.30508,5,2,27
+1994,SalishSea,Fraser,Summer,23728.81356,5,2,27
+1995,SalishSea,Fraser,Summer,26271.18644,5,2,27
+1996,SalishSea,Fraser,Summer,43008.47458,5,2,27
+1997,SalishSea,Fraser,Summer,40677.9661,5,2,27
+1998,SalishSea,Fraser,Summer,36652.54237,5,2,27
+1999,SalishSea,Fraser,Summer,25423.72881,5,2,27
+2000,SalishSea,Fraser,Summer,26271.18644,5,2,27
+2001,SalishSea,Fraser,Summer,34533.89831,5,2,27
+2002,SalishSea,Fraser,Summer,35805.08475,5,2,27
+2003,SalishSea,Fraser,Summer,44491.52542,5,2,27
+2004,SalishSea,Fraser,Summer,31355.9322,5,2,27
+2005,SalishSea,Fraser,Summer,19067.79661,5,2,27
+2006,SalishSea,Fraser,Summer,20974.57627,5,2,27
+2007,SalishSea,Fraser,Summer,10805.08475,5,2,27
+2008,SalishSea,Fraser,Summer,15466.10169,5,2,27
+2009,SalishSea,Fraser,Summer,20550.84746,5,2,27
+2010,SalishSea,Fraser,Summer,18432.20339,5,2,27
+2011,SalishSea,Fraser,Summer,18644.0678,5,2,27
+2012,SalishSea,Fraser,Summer,10381.35593,5,2,27
+2013,SalishSea,Fraser,Summer,13347.45763,5,2,27
+2014,SalishSea,Fraser,Summer,21610.16949,5,2,27
+1975,SalishSea,Fraser,Summer,26377.6834,5,2,27
+1976,SalishSea,Fraser,Summer,4634.252248,5,2,27
+1977,SalishSea,Fraser,Summer,20132.59481,5,2,27
+1978,SalishSea,Fraser,Summer,16232.27392,5,2,27
+1979,SalishSea,Fraser,Summer,18542.72794,5,2,27
+1980,SalishSea,Fraser,Summer,8433.538439,5,2,27
+1981,SalishSea,Fraser,Summer,13845.56729,5,2,27
+1982,SalishSea,Fraser,Summer,7621.448164,5,2,27
+1983,SalishSea,Fraser,Summer,10702.05353,5,2,27
+1984,SalishSea,Fraser,Summer,16114.08237,5,2,27
+1985,SalishSea,Fraser,Summer,20750.24094,5,2,27
+1986,SalishSea,Fraser,Summer,23051.16338,5,2,27
+1987,SalishSea,Fraser,Summer,23035.91286,5,2,27
+1988,SalishSea,Fraser,Summer,29999.68228,5,2,27
+1989,SalishSea,Fraser,Summer,25327.30373,5,2,27
+1990,SalishSea,Fraser,Summer,25302.52163,5,2,27
+1991,SalishSea,Fraser,Summer,26061.23508,5,2,27
+1992,SalishSea,Fraser,Summer,31471.35761,5,2,27
+1993,SalishSea,Fraser,Summer,13605.37157,5,2,27
+1994,SalishSea,Fraser,Summer,25228.17534,5,2,27
+1995,SalishSea,Fraser,Summer,21325.94813,5,2,27
+1996,SalishSea,Fraser,Summer,50789.95584,5,2,27
+1997,SalishSea,Fraser,Summer,47663.59891,5,2,27
+1998,SalishSea,Fraser,Summer,67819.06951,5,2,27
+1999,SalishSea,Fraser,Summer,54612.11781,5,2,27
+2000,SalishSea,Fraser,Summer,44502.92831,5,2,27
+2001,SalishSea,Fraser,Summer,74742.80631,5,2,27
+2002,SalishSea,Fraser,Summer,84808.15056,5,2,27
+2003,SalishSea,Fraser,Summer,69271.68169,5,2,27
+2004,SalishSea,Fraser,Summer,60716.13908,5,2,27
+2005,SalishSea,Fraser,Summer,88630.31253,5,2,27
+2006,SalishSea,Fraser,Summer,148349.4488,5,2,27
+2007,SalishSea,Fraser,Summer,85482.98614,5,2,27
+2008,SalishSea,Fraser,Summer,106412.4207,5,2,27
+2009,SalishSea,Fraser,Summer,86222.63643,5,2,27
+2010,SalishSea,Fraser,Summer,155250.3098,5,2,27
+2011,SalishSea,Fraser,Summer,126524.046,5,2,27
+2012,SalishSea,Fraser,Summer,46592.24977,5,2,27
+2013,SalishSea,Fraser,Summer,127263.6963,5,2,27
+2014,SalishSea,Fraser,Summer,85345.73144,5,2,27
+1984,SalishSea,Fraser,Fall,122844.8276,5,3,27
+1985,SalishSea,Fraser,Fall,175862.069,5,3,27
+1986,SalishSea,Fraser,Fall,164224.1379,5,3,27
+1987,SalishSea,Fraser,Fall,82758.62069,5,3,27
+1988,SalishSea,Fraser,Fall,38793.10345,5,3,27
+1989,SalishSea,Fraser,Fall,80172.41379,5,3,27
+1990,SalishSea,Fraser,Fall,178448.2759,5,3,27
+1991,SalishSea,Fraser,Fall,94396.55172,5,3,27
+1992,SalishSea,Fraser,Fall,131896.5517,5,3,27
+1993,SalishSea,Fraser,Fall,120258.6207,5,3,27
+1994,SalishSea,Fraser,Fall,102155.1724,5,3,27
+1995,SalishSea,Fraser,Fall,29741.37931,5,3,27
+1996,SalishSea,Fraser,Fall,58189.65517,5,3,27
+1997,SalishSea,Fraser,Fall,73706.89655,5,3,27
+1998,SalishSea,Fraser,Fall,188793.1034,5,3,27
+1999,SalishSea,Fraser,Fall,108620.6897,5,3,27
+2000,SalishSea,Fraser,Fall,126724.1379,5,3,27
+2001,SalishSea,Fraser,Fall,116379.3103,5,3,27
+2002,SalishSea,Fraser,Fall,93103.44828,5,3,27
+2003,SalishSea,Fraser,Fall,248275.8621,5,3,27
+2004,SalishSea,Fraser,Fall,130603.4483,5,3,27
+2005,SalishSea,Fraser,Fall,93103.44828,5,3,27
+2006,SalishSea,Fraser,Fall,64655.17241,5,3,27
+2007,SalishSea,Fraser,Fall,77586.2069,5,3,27
+2008,SalishSea,Fraser,Fall,45258.62069,5,3,27
+2009,SalishSea,Fraser,Fall,71120.68966,5,3,27
+2010,SalishSea,Fraser,Fall,104741.3793,5,3,27
+2011,SalishSea,Fraser,Fall,125431.0345,5,3,27
+2012,SalishSea,Fraser,Fall,45258.62069,5,3,27
+2013,SalishSea,Fraser,Fall,40086.2069,5,3,27
+1971,ColRiver,UpRiverBrights,Fall,39500,3,3,28
+1972,ColRiver,UpRiverBrights,Fall,39500,3,3,28
+1973,ColRiver,UpRiverBrights,Fall,39500,3,3,28
+1974,ColRiver,UpRiverBrights,Fall,39500,3,3,28
+1975,ColRiver,UpRiverBrights,Fall,39500,3,3,28
+1976,ColRiver,UpRiverBrights,Fall,31612,3,3,28
+1977,ColRiver,UpRiverBrights,Fall,31612,3,3,28
+1978,ColRiver,UpRiverBrights,Fall,31612,3,3,28
+1979,ColRiver,UpRiverBrights,Fall,31612,3,3,28
+1980,ColRiver,UpRiverBrights,Fall,31612,3,3,28
+1981,ColRiver,UpRiverBrights,Fall,51628,3,3,28
+1982,ColRiver,UpRiverBrights,Fall,51628,3,3,28
+1983,ColRiver,UpRiverBrights,Fall,51628,3,3,28
+1984,ColRiver,UpRiverBrights,Fall,51628,3,3,28
+1985,ColRiver,UpRiverBrights,Fall,51628,3,3,28
+1986,ColRiver,UpRiverBrights,Fall,107943,3,3,28
+1987,ColRiver,UpRiverBrights,Fall,107943,3,3,28
+1988,ColRiver,UpRiverBrights,Fall,107943,3,3,28
+1989,ColRiver,UpRiverBrights,Fall,107943,3,3,28
+1990,ColRiver,UpRiverBrights,Fall,107943,3,3,28
+1991,ColRiver,UpRiverBrights,Fall,62265,3,3,28
+1992,ColRiver,UpRiverBrights,Fall,62265,3,3,28
+1993,ColRiver,UpRiverBrights,Fall,62265,3,3,28
+1994,ColRiver,UpRiverBrights,Fall,62265,3,3,28
+1995,ColRiver,UpRiverBrights,Fall,62265,3,3,28
+1996,ColRiver,UpRiverBrights,Fall,75237,3,3,28
+1997,ColRiver,UpRiverBrights,Fall,68643,3,3,28
+1998,ColRiver,UpRiverBrights,Fall,65700,3,3,28
+1999,ColRiver,UpRiverBrights,Fall,81737,3,3,28
+2000,ColRiver,UpRiverBrights,Fall,69980,3,3,28
+2001,ColRiver,UpRiverBrights,Fall,119432,3,3,28
+2002,ColRiver,UpRiverBrights,Fall,154033,3,3,28
+2003,ColRiver,UpRiverBrights,Fall,191702,3,3,28
+2004,ColRiver,UpRiverBrights,Fall,185608,3,3,28
+2005,ColRiver,UpRiverBrights,Fall,142720,3,3,28
+2006,ColRiver,UpRiverBrights,Fall,97129,3,3,28
+2007,ColRiver,UpRiverBrights,Fall,67463,3,3,28
+2008,ColRiver,UpRiverBrights,Fall,118497,3,3,28
+2009,ColRiver,UpRiverBrights,Fall,119711,3,3,28
+2010,ColRiver,UpRiverBrights,Fall,188739,3,3,28
+2011,ColRiver,UpRiverBrights,Fall,186440,3,3,28
+2012,ColRiver,UpRiverBrights,Fall,208160,3,3,28
+2013,ColRiver,UpRiverBrights,Fall,511556,3,3,28
+2014,ColRiver,UpRiverBrights,Fall,471473,3,3,28
+2015,ColRiver,UpRiverBrights,Fall,455879,3,3,28
+1976,WACoast,WillappaBay,Fall,6524,4,3,29
+1977,WACoast,WillappaBay,Fall,6524,4,3,29
+1978,WACoast,WillappaBay,Fall,6524,4,3,29
+1979,WACoast,WillappaBay,Fall,6524,4,3,29
+1980,WACoast,WillappaBay,Fall,6524,4,3,29
+1981,WACoast,WillappaBay,Fall,6986,4,3,29
+1982,WACoast,WillappaBay,Fall,6986,4,3,29
+1983,WACoast,WillappaBay,Fall,6986,4,3,29
+1984,WACoast,WillappaBay,Fall,6986,4,3,29
+1985,WACoast,WillappaBay,Fall,6986,4,3,29
+1986,WACoast,WillappaBay,Fall,28034,4,3,29
+1987,WACoast,WillappaBay,Fall,28034,4,3,29
+1988,WACoast,WillappaBay,Fall,28034,4,3,29
+1989,WACoast,WillappaBay,Fall,28034,4,3,29
+1990,WACoast,WillappaBay,Fall,28034,4,3,29
+1991,WACoast,WillappaBay,Fall,19905,4,3,29
+1992,WACoast,WillappaBay,Fall,19905,4,3,29
+1993,WACoast,WillappaBay,Fall,19905,4,3,29
+1994,WACoast,WillappaBay,Fall,19905,4,3,29
+1995,WACoast,WillappaBay,Fall,19905,4,3,29
+1996,WACoast,WillappaBay,Fall,14232,4,3,29
+1997,WACoast,WillappaBay,Fall,17620,4,3,29
+1998,WACoast,WillappaBay,Fall,7791,4,3,29
+1999,WACoast,WillappaBay,Fall,6260,4,3,29
+2000,WACoast,WillappaBay,Fall,12758,4,3,29
+2001,WACoast,WillappaBay,Fall,12260,4,3,29
+2002,WACoast,WillappaBay,Fall,15409,4,3,29
+2003,WACoast,WillappaBay,Fall,17360,4,3,29
+2004,WACoast,WillappaBay,Fall,24282,4,3,29
+2005,WACoast,WillappaBay,Fall,20066,4,3,29
+2006,WACoast,WillappaBay,Fall,27948,4,3,29
+2007,WACoast,WillappaBay,Fall,15307,4,3,29
+2008,WACoast,WillappaBay,Fall,16435,4,3,29
+2009,WACoast,WillappaBay,Fall,22176,4,3,29
+2010,WACoast,WillappaBay,Fall,26100,4,3,29
+2011,WACoast,WillappaBay,Fall,25680,4,3,29
+2012,WACoast,WillappaBay,Fall,16843,4,3,29
+2013,WACoast,WillappaBay,Fall,16434,4,3,29
+2014,WACoast,WillappaBay,Fall,20523,4,3,29
+1975,BC,Nass,summer,14336.431,6,2,30
+1976,BC,Nass,summer,13650.933,6,2,30
+1977,BC,Nass,summer,15061.035,6,2,30
+1978,BC,Nass,summer,16471.906,6,2,30
+1979,BC,Nass,summer,13338.087,6,2,30
+1980,BC,Nass,summer,14748.19,6,2,30
+1981,BC,Nass,summer,13362.624,6,2,30
+1982,BC,Nass,summer,10578.457,6,2,30
+1983,BC,Nass,summer,16185.131,6,2,30
+1984,BC,Nass,summer,25287.541,6,2,30
+1985,BC,Nass,summer,20406.238,6,2,30
+1986,BC,Nass,summer,38600.324,6,2,30
+1987,BC,Nass,summer,21129.309,6,2,30
+1988,BC,Nass,summer,16946.541,6,2,30
+1989,BC,Nass,summer,29196.57,6,2,30
+1990,BC,Nass,summer,27110.938,6,2,30
+1991,BC,Nass,summer,8242.854,6,2,30
+1992,BC,Nass,summer,16995.613,6,2,30
+1993,BC,Nass,summer,26798.86,6,2,30
+1994,BC,Nass,summer,26113.36,6,2,30
+1995,BC,Nass,summer,8641.578,6,2,30
+1996,BC,Nass,summer,16691.97,6,2,30
+1996,BC,Nass,summer,22991.045,6,2,30
+1997,BC,Nass,summer,21954.361,6,2,30
+1998,BC,Nass,summer,25812.018,6,2,30
+1999,BC,Nass,summer,13237.64,6,2,30
+2000,BC,Nass,summer,20942.215,6,2,30
+2001,BC,Nass,summer,31794.412,6,2,30
+2002,BC,Nass,summer,15373.113,6,2,30
+2003,BC,Nass,summer,29021.746,6,2,30
+1975,BC,Skeena,summer,19834.71,6,2,31
+1976,BC,Skeena,summer,15702.4795,6,2,31
+1977,BC,Skeena,summer,29752.066,6,2,31
+1978,BC,Skeena,summer,23966.941,6,2,31
+1979,BC,Skeena,summer,19834.71,6,2,31
+1980,BC,Skeena,summer,24793.389,6,2,31
+1981,BC,Skeena,summer,24793.389,6,2,31
+1982,BC,Skeena,summer,19008.264,6,2,31
+1983,BC,Skeena,summer,24793.389,6,2,31
+1984,BC,Skeena,summer,38016.527,6,2,31
+1985,BC,Skeena,summer,53719.008,6,2,31
+1986,BC,Skeena,summer,60330.58,6,2,31
+1987,BC,Skeena,summer,59504.133,6,2,31
+1988,BC,Skeena,summer,68595.04,6,2,31
+1989,BC,Skeena,summer,58677.688,6,2,31
+1990,BC,Skeena,summer,55371.902,6,2,31
+1991,BC,Skeena,summer,53719.008,6,2,31
+1992,BC,Skeena,summer,63636.363,6,2,31
+1993,BC,Skeena,summer,67768.59,6,2,31
+1994,BC,Skeena,summer,48760.332,6,2,31
+1995,BC,Skeena,summer,35537.19,6,2,31
+1996,BC,Skeena,summer,74380.164,6,2,31
+1997,BC,Skeena,summer,44628.098,6,2,31
+1998,BC,Skeena,summer,47933.883,6,2,31
+1999,BC,Skeena,summer,44628.098,6,2,31
+2000,BC,Skeena,summer,51239.668,6,2,31
+2001,BC,Skeena,summer,83471.08,6,2,31
+2002,BC,Skeena,summer,46280.992,6,2,31
+2003,BC,Skeena,summer,58677.688,6,2,31
+1975,SEAK,Taku,summer,14202.898,7,2,31
+1976,SEAK,Taku,summer,25362.318,7,2,32
+1977,SEAK,Taku,summer,29420.29,7,2,32
+1978,SEAK,Taku,summer,18260.87,7,2,32
+1979,SEAK,Taku,summer,22318.84,7,2,32
+1980,SEAK,Taku,summer,39565.22,7,2,32
+1981,SEAK,Taku,summer,50724.637,7,2,32
+1982,SEAK,Taku,summer,24347.826,7,2,32
+1983,SEAK,Taku,summer,10144.928,7,2,32
+1984,SEAK,Taku,summer,21304.348,7,2,32
+1985,SEAK,Taku,summer,35507.246,7,2,32
+1986,SEAK,Taku,summer,38550.727,7,2,32
+1987,SEAK,Taku,summer,29420.29,7,2,32
+1988,SEAK,Taku,summer,44637.68,7,2,32
+1989,SEAK,Taku,summer,40579.71,7,2,32
+1990,SEAK,Taku,summer,51739.13,7,2,32
+1991,SEAK,Taku,summer,50724.637,7,2,32
+1992,SEAK,Taku,summer,56811.594,7,2,32
+1993,SEAK,Taku,summer,65942.03,7,2,32
+1994,SEAK,Taku,summer,47681.16,7,2,32
+1995,SEAK,Taku,summer,33478.26,7,2,32
+1996,SEAK,Taku,summer,79130.44,7,2,32
+1997,SEAK,Taku,summer,115652.17,7,2,32
+1998,SEAK,Taku,summer,31449.275,7,2,32
+1999,SEAK,Taku,summer,20289.855,7,2,32
+2000,SEAK,Taku,summer,30434.783,7,2,32
+2001,SEAK,Taku,summer,45652.176,7,2,32
+2002,SEAK,Taku,summer,48695.652,7,2,32
+2003,SEAK,Taku,summer,41594.203,7,2,32
+1975,SEAK,Stikine,summer,8115.942,7,2,33
+1976,SEAK,Stikine,summer,6086.9565,7,2,33
+1977,SEAK,Stikine,summer,11666.667,7,2,33
+1978,SEAK,Stikine,summer,6594.203,7,2,33
+1979,SEAK,Stikine,summer,13695.652,7,2,33
+1980,SEAK,Stikine,summer,30942.03,7,2,33
+1981,SEAK,Stikine,summer,36521.74,7,2,33
+1982,SEAK,Stikine,summer,40072.465,7,2,33
+1983,SEAK,Stikine,summer,7101.449,7,2,33
+1984,SEAK,Stikine,summer,14202.898,7,2,33
+1985,SEAK,Stikine,summer,16231.884,7,2,33
+1986,SEAK,Stikine,summer,15217.392,7,2,33
+1987,SEAK,Stikine,summer,24855.072,7,2,33
+1988,SEAK,Stikine,summer,37536.23,7,2,33
+1989,SEAK,Stikine,summer,24347.826,7,2,33
+1990,SEAK,Stikine,summer,23333.334,7,2,33
+1991,SEAK,Stikine,summer,23333.334,7,2,33
+1992,SEAK,Stikine,summer,34492.754,7,2,33
+1993,SEAK,Stikine,summer,58840.58,7,2,33
+1994,SEAK,Stikine,summer,32971.016,7,2,33
+1995,SEAK,Stikine,summer,16739.13,7,2,33
+1996,SEAK,Stikine,summer,28913.043,7,2,33
+1997,SEAK,Stikine,summer,27391.305,7,2,33
+1998,SEAK,Stikine,summer,25869.564,7,2,33
+1999,SEAK,Stikine,summer,20289.855,7,2,33
+2000,SEAK,Stikine,summer,27391.305,7,2,33
+2001,SEAK,Stikine,summer,63913.043,7,2,33
+2002,SEAK,Stikine,summer,51231.883,7,2,33
+2003,SEAK,Stikine,summer,43623.188,7,2,33
+1993,WCVI,aggregate,summer,9123.223,6,2,34
+1994,WCVI,aggregate,summer,8293.839,6,2,34
+1995,WCVI,aggregate,summer,5568.72,6,2,34
+1996,WCVI,aggregate,summer,9597.156,6,2,34
+1997,WCVI,aggregate,summer,11611.374,6,2,34
+1998,WCVI,aggregate,summer,20734.598,6,2,34
+1999,WCVI,aggregate,summer,14928.91,6,2,34
+2000,WCVI,aggregate,summer,6042.654,6,2,34
+2001,WCVI,aggregate,summer,6635.0713,6,2,34
+2002,WCVI,aggregate,summer,10663.507,6,2,34
+2003,WCVI,aggregate,summer,11966.824,6,2,34
+2004,WCVI,aggregate,summer,17890.996,6,2,34

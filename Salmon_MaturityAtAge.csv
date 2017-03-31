@@ -1,0 +1,172 @@
+AreaID,River,Run,1,2,3,4,5
+1,Sacramento,1,2,87,11,0,0
+1,Sacramento,1,27,15,59,1,0
+1,Sacramento,3,3,77,20,0,0
+1,Sacramento,3,4,35,50,10,1
+1,Sacramento,3,24,57,19,2,0
+1,Sacramento,3,2,57,41,0,0
+1,American,3,1,93,6,0,0
+1,San Joaquin,3,15,45,35,5,0
+1,Toulommne,3,30,50,19,1,0
+1,Merced,3,30,50,19,1,0
+1,Sacramento,4,9,56,31,3,2
+1,Sacramento,9,1,91,8,0,0
+3,Grays,3,5,39,54,1,0
+3,Elochoman,3,2,47,49,1,0
+3,Cowlitz,3,14,28,46,12,0
+3,Kalama,3,0,34,55,11,0
+3,Lewis,3,14,16,41,28,2
+3,EF Lewis,3,22,19,45,15,1
+3,Lewis and Clark,3,7,28,63,2,0
+3,Big ,3,0,10,76,14,0
+3,Gnat,3,9,21,59,12,0
+3,Plympton ,3,0,19,79,2,0
+2,Smith,3,17,30,41,11,1
+2,Eel,3,11,40,29,22,0
+2,Little,3,8,53,34,5,0
+2,Russian,3,5,90,5,0,0
+2,Klamath,3,17,40,41,2,0
+2,Klamath,3,0,14,70,14,2
+2,Klamath,3,26,46,29,3,0
+2,Salmon,3,18,46,34,1,1
+2,Scott,3,21,39,39,1,1
+2,Shasta,3,20,39,40,1,1
+2,Klamath,3,6,17,70,6,0
+2,Trinity,3,20,45,33,2,0
+2,SF Trinity,3,46,46,7,1,0
+5,Snoqualmie,3,6,20,46,28,0
+5,Puyallup,3,2,16,76,6,0
+5,Hoko,3,2,9,43,40,7
+4,Quilayute,3,1,2,14,62,21
+4,Queets,3,1,17,30,43,10
+4,Quinault,3,1,17,40,35,8
+4,Humptulips,3,1,13,25,46,16
+4,Humptulips,3,7,20,31,39,7
+4,Chehalis,3,2,16,27,45,9
+4,Chehalis,3,1,17,24,50,10
+4,Chehalis,3,2,16,27,45,9
+4,John-Elk,3,0,0,0,0,0
+4,Willapa,3,1,21,41,34,4
+3,Upper Willamette,3,4,60,34,1,0
+3,Hood River,3,23,67,10,0,0
+3,Wind,3,34,24,35,8,0
+3,Klickatat,3,5,32,45,22,0
+3,Deschutes,3,34,30,32,5,1
+3,Snake R,3,26,19,50,5,0
+3,Yakima,3,2,23,64,11,0
+3,Marion Drain,3,20,51,22,5,0
+3,Hanford,3,16,27,35,22,0
+2,Wilson,3,2,9,27,49,16
+2,Trask,3,0,7,48,32,14
+2,Tillamook,3,4,9,45,36,8
+2,Nestucca,3,4,6,36,38,18
+2,Salmon,3,18,13,29,72,6
+2,Siletz,3,1,8,27,48,20
+2,Yaquina,3,7,21,48,25,1
+2,Alsea,3,27,10,28,33,4
+2,Siuslaw,3,13,16,33,36,1
+2,Upper Umpqua,3,18,46,37,1,0
+2,Coquille,3,18,18,44,24,1
+2,Sixes,3,6,15,47,32,2
+2,Elk,3,26,17,40,17,2
+2,Rogue,3,27,27,40,6,0
+2,Pistol,3,6,9,67,18,0
+2,Chetco,3,22,19,26,33,1
+8,Farragut,9,6,11,34,41,6
+5,Skagit,9,0,10,73,2,1
+5,Issaquah,9,2,47,48,3,0
+5,Green,9,1,26,62,11,1
+5,Nisqually,9,24,45,31,1,0
+5,Deschutes,9,3,32,56,5,1
+5,South sound,9,7,46,42,4,0
+5,Skokomish,9,20,33,43,4,1
+5,Elwha,9,1,13,57,29,1
+4,Hoh,9,0,6,25,54,15
+4,Queets,9,1,14,21,49,16
+4,Quinault,9,0,8,25,52,14
+2,Nehalem,9,2,12,26,57,4
+2,Nestucca,9,5,9,38,48,0
+1,Central Valley,9,1,16,47,33,2
+8,Kenai,1,1,4,13,76,7
+5,Nooksack,1,5,34,51,9,1
+5,NF Nooksack,1,1,4,75,20,0
+5,SF Nooksack,1,1,10,61,28,0
+5,Suiattle,1,1,8,43,47,35
+5,Puyallup,1,0,9,55,36,0
+5,Dungeness,1,0,10,63,25,2
+4,Quilayute,1,0,6,35,50,10
+3,Cowlitz,1,0,32,35,33,0
+3,Clackamas,1,0,5,67,29,1
+3,N. Santiam,1,0,4,54,42,0
+3,MF Willamette,1,0,2,56,41,2
+3,Wind/L.White Salmon,1,0,5,54,41,1
+3,Klickatat,1,0,16,75,9,0
+3,Deschutes,1,0,3,57,43,0
+3,Warm Spring,1,0,5,77,18,0
+3,Deschutes,1,0,2,86,12,0
+3,NF John Day,1,0,3,76,22,0
+3,MF John Day,1,0,2,81,17,0
+3,SF John Day,1,0,4,77,19,0
+3,Tucannon,1,0,1,67,32,0
+3,Lyons Ferry,1,0,2,67,32,1
+3,MS Snake,1,0,9,59,32,0
+3,Grande Ronde,1,0,4,79,17,1
+3,Wenaha ,1,0,0,55,45,0
+3,Minam,1,0,10,65,26,1
+3,Imnaha,1,0,5,40,50,0
+3,MF Clearwater,1,0,7,66,27,0
+3,Rapid,1,0,11,71,19,0
+3,Big Sheep,1,0,1,29,71,0
+3,MF Salmon,1,0,3,38,59,0
+3,Salmon,1,0,11,43,50,0
+3,Upper Salmon,1,0,18,29,54,0
+3,Little Salmon,1,0,23,73,5,0
+3,Salmon,1,0,28,61,11,0
+3,Pahsimeroi,1,0,17,54,29,0
+3,Upper Yakima,1,0,14,83,3,0
+3,Upper Yakima,1,0,3,94,3,1
+3,Upper Naches,1,0,6,63,31,0
+3,Upper Naches,1,0,2,52,47,1
+3,American,1,0,2,24,74,1
+3,Chiwawa,1,0,1,56,43,0
+3,Nason,1,0,4,63,37,0
+3,Little Wenatchee,1,0,3,44,53,0
+3,Wenatchee,1,0,5,76,19,0
+3,White,1,0,1,63,37,0
+3,Entiat,1,0,1,72,28,0
+3,Methow,1,0,4,59,38,0
+3,Methow,1,0,7,62,32,0
+3,Twisp,1,0,1,52,48,0
+3,Chewuch,1,0,4,65,34,0
+2,Umpqua,1,0,5,69,24,2
+2,Rogue,1,8,25,40,23,4
+2,Rogue,1,8,18,65,9,0
+2,Klamath,1,0,13,82,5,0
+2,Trinity,1,20,35,39,8,0
+2,SF trinity,1,22,40,32,6,0
+8,Situk,2,0,19,22,59,0
+7,Copper,2,1,6,27,56,11
+6,Kitsumkalum,2,0,3,23,58,16
+6,Skeena,2,4,7,35,34,20
+6,Kitimat,2,0,35,49,16,0
+6,Bella Coola,2,1,8,50,39,2
+6,Wannock,2,0,6,22,72,0
+6,Qualicum,2,45,25,29,1,0
+6,Robertson,2,38,25,16,21,0
+6,Quinsam,2,1,5,37,46,11
+7,Taku,2,11,27,37,24,2
+5,Bowron,2,0,0,11,89,0
+5,Chilko,2,0,12,48,38,0
+5,Nechako,2,0,9,40,51,0
+5,Quesnel,2,0,8,17,70,5
+5,Slim,2,0,0,28,72,0
+5,Torpy,2,0,0,14,84,2
+5,Willow,2,0,2,18,79,2
+5,SF Thompson,2,1,1,51,44,4
+5,Harrison,2,0,24,74,2,0
+5,Stilliquamish,2,4,20,59,7,0
+4,Quilayute,2,0,2,28,52,18
+3,Wenatchee,2,1,8,34,46,3
+3,Wenatchee,2,1,3,44,54,1
+3,Methow,2,0,9,27,57,5
+3,Okanogan,2,0,21,44,34,1

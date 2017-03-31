@@ -1,0 +1,19 @@
+river,origin,release,size,run,%Natural,,,Sum of release,Column Labels,,
+WestCascade,hatchery,3.1,yearling,spring,0,,,,subyearlings,yearling,
+Willamette,hatchery,5.5,yearling,spring,0,,,Row Labels,fall,fall,spring
+MCR,hatchery,8.3,yearling,spring,0,,,hatchery,57.0,14.1,28.2
+SNR,hatchery,11.3,yearling,spring,0,,,wild,23.0,0.5,2.5
+SNR,hatchery,11.3,yearling,fall,0,,,Grand Total,80.0,14.6,30.7
+UCR,hatchery,2.8,yearling,fall,0,,,,,,
+UCR,hatchery,21.5,subyearlings,fall,0,,,,,,
+SpringCreek,hatchery,24.2,subyearlings,fall,0,,,,,,
+SNR,hatchery,11.3,subyearlings,fall,0,,,,,,
+WestCascade,wild,0,yearling,spring,0,,,,,,
+Willamette,wild,0.563947078,yearling,spring,0.093,,,,,,
+MCR,wild,0.881415929,yearling,spring,0.096,,,,,,
+SNR,wild,1.103951701,yearling,spring,0.089,,,,,,
+SNR,wild,0.218858308,yearling,fall,0.019,,,,,,
+UCR,wild,0.297345133,yearling,fall,0.096,,,,,,
+UCR,wild,18.31481481,subyearlings,fall,0.46,,,,,,
+SpringCreek,wild,0,subyearlings,fall,0,,,,,,
+SNR,wild,4.728368794,subyearlings,fall,0.295,,,,,,

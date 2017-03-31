@@ -1,0 +1,6 @@
+source("Figure_1_results.r")
+source("results_plot_harvestVsPredatorConsumption_Austen.r")
+source("plotCoastalPresentationMap.r")
+source("plotsalmonproduction.r")
+source("results_plot_BasePeriodChinookAvailability.r")
+source("results_plot_killerWhaleConsumptionByArea.r")
