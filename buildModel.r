@@ -30,7 +30,7 @@ areaNamesLong = c("Central California", "NorCal/Oregon", "Columbia River", "Wash
 
 ptm <- proc.time()
 
-runMCChain = TRUE
+runMCChain = FALSE
 if(runMCChain == TRUE )
   nSim = 100
 if(runMCChain ==FALSE)
