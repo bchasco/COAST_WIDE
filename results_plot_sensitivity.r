@@ -61,13 +61,13 @@ for(pi in 1:4)
 )
   
   if(pi==2)
-    legend(1980,max(qnx[6:46,])*0.8,
+    legend(1980,max(qnx[6:46,])*0.9,
            legend=c("Biomass", "Numbers"),
            col=c(rgb(0,0,1,0.5),rgb(1,0,0,0.5)),
            pch=15,
            bty="n",
-           pt.cex=2,
-           cex=1.2)
+           pt.cex=2.5,
+           cex=1.8)
   box()
   
 }
@@ -77,7 +77,7 @@ plot(1, type="n",
      ylab="",
      axes=FALSE)
 
-mtext("Biomass (thousand of tons)",2, cex=1.5,line=3)
-mtext("Numbers (millions)",4, cex=1.5, line=3)
+mtext("Biomass consumed (thousand of tons)",2, cex=1.5,line=3)
+mtext("Numbers consumed (millions)",4, cex=1.5, line=3)
 
 dev.off()

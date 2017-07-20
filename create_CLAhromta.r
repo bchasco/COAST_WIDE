@@ -50,8 +50,11 @@ for(hi in 1:nAreas)
     for(oi in 1:nOrigin)
       for(mi in 2:2)
       {
+        #smolts
         CLA_hromta[hi,ri,oi,mi,,1] = apply(SMTL_hryt[hi,ri,,],2,mean)
+        #Adults
         CLA_hromta[hi,ri,oi,mi,CLA_hromta[hi,ri,oi,mi,,1]==0,1] = mean(SMTL_hryt[hi,,,])
+        #North bound smolts
         CLA_hromta[hi,ri,oi,1,,1] = CLA_hromta[hi,ri,oi,2,,1]
       }
 

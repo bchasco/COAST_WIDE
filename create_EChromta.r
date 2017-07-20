@@ -10,6 +10,7 @@ for(hi in 1:nAreas)
         for(ti in 1:nTime)
           for(ai in 1:nAges)
           {
+            #Sandra oneill's paper, see figure 6
             EC_hromta[hi,ri,oi,mi,ti,ai] = (0.000011 * (CLA_hromta[hi,ri,oi,mi,ti,ai])^3.122)            
             if(runMCChain==TRUE & iSim>1)
               EC_hromta[hi,ri,oi,mi,ti,ai] = (0.000011 * err * (CLA_hromta[hi,ri,oi,mi,ti,ai])^3.122)            

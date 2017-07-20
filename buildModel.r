@@ -49,7 +49,6 @@ MC_CCONDcv = 0.1 #Fish condition, change in create_EChromta, rough estimate base
 simBC_cspjya = array(NA,c(length(mycv),nSim,nPred,nAreas,nYear,nAges))
 simNC_cspjya = array(NA,c(length(mycv),nSim,nPred,nAreas,nYear,nAges))
 simYears = c(1:46)
-
 for(iSim in 1:nSim)
 {
   print(paste(iSim))

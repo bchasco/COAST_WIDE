@@ -39,7 +39,7 @@ for(ji in c(1,2,3,4,6,7,8))
 }
 
 SEL_pjta2 = SEL_pjta
-#For the pinniped we need to make the age selectivity of the adult fraction proportional to the 
+#For the pinniped we need to make the age selectivity of the adult fraction proportional to the maturity of schedules
 #Just assume that the age selectivity of the other killer whales is the same as Salish Sea
 for(ji in c(1,2,3,4,5,6,7,8))
 {

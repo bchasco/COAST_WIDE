@@ -71,7 +71,7 @@ for(hi in 1:nAreas)
         }
       }
 
-#This is part of Brian Burke suggestion
+#This is part of Brian Burke suggestion, estimates taken from Weitkamp et al. 2015
 #40 days
 #1.3 mm/day growth rate.
 SMTL_hryt = SMTL_hryt + 40 * 1.0 

@@ -111,6 +111,20 @@ for(hi in 1:8)
               interpWeitTHETA_hjromta[hi,,ri,oi,mi,ti,ai] = interpWeitTHETA_hjromta[hi,,ri,oi,mi,ti,ai]/sum(interpWeitTHETA_hjromta[hi,,ri,oi,mi,ti,ai])
     }              
 
+#British columbia and GoA Fall and winter Chinook
+#for(hi in c(6,8))
+#  for(ri in c(3:4))
+#      for(oi in 1:nOrigin)
+#        for(mi in 1:2)
+#          for(ti in 1:nTime)
+#            for(ai in 2:nAges){
+#              interpWeitTHETA_hjromta[hi,,ri,oi,mi,ti,ai] = 0.0
+#              interpWeitTHETA_hjromta[hi,hi-1,ri,oi,mi,ti,ai] = 0.2
+#              interpWeitTHETA_hjromta[hi,hi,ri,oi,mi,ti,ai] = 0.8
+#              interpWeitTHETA_hjromta[hi,hi+1,ri,oi,mi,ti,ai] = 0.2
+#}              
+
+
 #get rid of the NAs
 interpWeitTHETA_hjromta[is.na(interpWeitTHETA_hjromta)==TRUE] = 0
 

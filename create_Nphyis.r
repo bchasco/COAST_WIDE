@@ -55,7 +55,7 @@ for(i in 1:nrow(atx))
     
 }
 
-#You need to subtract the abundance of adult in the Oregon, Columbia River, 
+#You need to subtract the abundance of adult males in the Oregon, Columbia River, 
 #Washington and Salish Sea from the SoCal total.
 N_phy[3,1,] = N_phy[3,1,] - colSums(N_phy[3,2:6,])
 

@@ -17,7 +17,7 @@ for(hi in 1:nAreas)
   }
 }
 
-#You have to fill on the missing information that was not in the FRAM input sheet.
+#You have to fill in the missing information that was not in the FRAM input sheet.
 for(hi in 1:nAreas)
   for(ri in c(1:4,9)){
     if(sum(MAT_hra[hi,ri,])==0){
@@ -29,4 +29,5 @@ for(hi in 1:nAreas)
         MAT_hra[hi,ri,] = apply(MAT_hra[rowSums(MAT_hra[,ri,])>0,ri,],c(2),mean)
     }
   }
+#All salmon ocean age five mature
 MAT_hra[,,6] = 1  

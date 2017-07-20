@@ -61,13 +61,13 @@ load("simOutput.Rdata", verbose = FALSE)
     )
     
     if(ji==2)
-      legend(1983,max(qnx[6:46,])*0.9,
+      legend(1983,max(qnx[6:46,]),
              legend=c("Biomass", "Numbers"),
              col=c(rgb(0,0,1,0.5),rgb(1,0,0,0.5)),
              pch=15,
              bty="n",
-             cex=1.5,
-             pt.cex=2)
+             cex=2.5,
+             pt.cex=2.5)
     box()
     
   }
@@ -78,6 +78,6 @@ load("simOutput.Rdata", verbose = FALSE)
        ylab="",
        axes=FALSE)
   
-  mtext("Biomass (thousand of tons)",2, cex=1.5,line=3)
-  mtext("Numbers (millions)",4, cex=1.5,line=3)
+  mtext("Biomass consumed (thousand of tons)",2, cex=1.5,line=3)
+  mtext("Numbers consumed (millions)",4, cex=1.5,line=3)
   dev.off()

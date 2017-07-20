@@ -47,8 +47,8 @@ lm1 = mean(apply(NC_phjromyta[,,,,,,6:46,,3:6],c(7),sum)/apply(BC_phjromyta[,,,,
           ylab="",
           xlab="",
           names.arg = rep("",41),
-          col=c(grey(0.95),"darkgrey"),
-          border=c(grey(0.95),"darkgrey")
+          col=c(grey(0.85),"darkgrey"),
+          border=c(grey(0.85),"darkgrey")
   )
   axis(2,las=1, cex.axis=1.3)
   
@@ -96,8 +96,8 @@ for(i in 1:8){
           ylab="",
           xlab="",
           names.arg = rep("",41),
-          col=c(grey(0.95),"darkgrey"),
-          border=c(grey(0.95),"darkgrey")
+          col=c(grey(0.85),"darkgrey"),
+          border=c(grey(0.85),"darkgrey")
   )
   if(i==1)
   {
@@ -106,7 +106,7 @@ for(i in 1:8){
          lty=c(1,0,0),
          pch=c(-1,15,15),
          lwd=3,
-         col=c("black", "darkgrey",grey(0.95)), 
+         col=c("black", "darkgrey",grey(0.85)), 
          bty="n",
          cex=1.3,
          pt.cex = 2)
@@ -141,7 +141,7 @@ for(i in 1:8){
   axis(4, at = axB, labels = seq(0,6,1), las=1, cex.axis=1.3)
   box()
   
-  text(25,1.1,areaNames[i], pos=4, cex=1.5)
+  text(22,1.1,areaNames[i], pos=4, cex=1.5)
   #text(6,3,"Hatchery origin", pos=4, cex=1.5)
   #axis(4, at=exp(seq(1:5)*0.95+7.54)), labels=1:5,line=-0.9)
   
@@ -149,8 +149,8 @@ for(i in 1:8){
 
 par(fig=c(0,1,0,1),mai=c(0,0,0,0), new=TRUE)
 plot(1, ylim=c(0,1), xlim=c(0,1), xaxs="i", yaxs="i", xlab="", ylab="", axes=FALSE)
-text(0.02,0.5,"Ocean age 2+ (millions)", srt=90, cex=1.3)
-text(0.98,0.5,"Biomass (1000s of tons)", srt=90, cex=1.3)
+text(0.02,0.5,"Ocean age 2+ consumed (millions)", srt=90, cex=1.3)
+text(0.98,0.5,"Biomass consumed (1000s of tons)", srt=90, cex=1.3)
 
 
 

@@ -2,7 +2,7 @@
 ptx = read.csv("predatorTemporalSpatialDistribution.csv")
 
 
-#Diet fraction array
+#Diet fraction/selectivity array
 PHI_phjts = array(0,
                  c(nPred,nAreas,nAreas,nTime,nSex), 
                  dimnames = list(predNames,areaNames,areaNames, paste0("mon",1:nTime),sexNames))

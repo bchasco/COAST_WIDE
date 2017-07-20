@@ -129,7 +129,7 @@ for(yi in tmpYears)
                   (EC_hromta[hi,ri,oi,mi,ti,ai]) *
                   (FS_hjromyta[hi,ji,ri,oi,mi,yi,ti,ai])#
                 
-                #Sandra Oneill formula
+                #Sandra Oneill formula - reverse calculate that weights
                 #BC_phjromyta[,hi,ji,ri,oi,mi,yi,ti,ai] = exp((log(tmpED_pjyta[,ji,yi,ti,ai]) - 7.56)/0.94) * (FS_hjromyta[hi,ji,ri,oi,mi,yi,ti,ai]) 
                 BC_phjromyta[,hi,ji,ri,oi,mi,yi,ti,ai] = NC_phjromyta[,hi,ji,ri,oi,mi,yi,ti,ai] * 
                   exp((log(0.000011 * CLA_hromta[hi,ri,oi,mi,ti,ai] ^ 3.12) - 7.54)/0.94)  #Sandra Oneill formula

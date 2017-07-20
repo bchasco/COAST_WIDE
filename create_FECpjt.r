@@ -27,7 +27,7 @@ for(i in 1:nrow(ftx))
   pi = ftx[i,1] #pred species
   ji = ftx[i,2] #area
   ti = ftx[i,3] #time
-  cr = ftx[i,7] #correction factor
+  cr = ftx[i,7] #correction factor for aggregated salmon stocks.
   agg = ftx[i,6]
   
   if(ftx[i,4]=="FO")

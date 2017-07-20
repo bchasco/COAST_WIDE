@@ -41,5 +41,5 @@ for(hi in 1:nAreas)
         WildEsc_hrvy[hi,ri,rivi,WildEsc_hrvy[hi,ri,rivi,]==0] = 
           mean(WildEsc_hrvy[hi,ri,rivi,WildEsc_hrvy[hi,ri,rivi,]!=0])
 
-#Smolts per escapement
-R_hroy[,,2,] = apply(WildEsc_hrvy, c(1,2,4),sum)/2*200
+#Smolts per escapement: the 220 value is reflective of Petralsky 2001
+R_hroy[,,2,] = apply(WildEsc_hrvy, c(1,2,4),sum)/2*220

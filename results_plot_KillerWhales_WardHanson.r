@@ -19,7 +19,7 @@ RatioC_jy = RatioC_jy/(RatioC_jy[5,1])
 matplot(1975:2015,
         t(RatioC_jy[c(5:8),]), 
         col = myCol[5:8], 
-        ylab="Relative prey availability",
+        ylab="",
         type="l", 
         lwd=2, 
         las=1,
@@ -28,13 +28,19 @@ matplot(1975:2015,
         xlim=c(1974.9,2015),
         yaxs="i",
         xaxs="i",
+        cex.axis=1.3,
         cex.lab=1.3,
         axes=FALSE)
-axis(1, cex.axis=1.3)
-axis(2,cex.axis=1.3, las=1)
+axis(1, cex.axis=1.3,
+     cex.lab=1.3,
+     )
+axis(2,cex.lab=1.3, 
+     cex.axis=1.3, las=1)
 abline(v=1975)
 abline(h=1)
-text(2011,23,"(a)")
+text(2011,10,
+     "(a)", cex=1.3)
+mtext("Relative prey availability",2, line=4.5, cex=1.)
 
 yl = max(apply(BC_phjromyta[1,,,,,,,,2:nAges], c(6), sum)[6:46]/1000)
 
@@ -45,12 +51,17 @@ barplot(apply(BC_phjromyta[1,,,,,,,,2:nAges], c(2,6), sum)[1:8,6:46]/1000,
         yaxs="i",
         xaxs="i",
         ylab="",
+        cex.lab=1.3,
+        cex.axis=1.3,
         names.arg = rep("",length(1975:2015)),
         border=myCol,
         col=myCol)
-axis(1, at=seq(1980,2010,10)-1975+0.5, labels=seq(1980,2010,10), cex.axis=1.3)
-text(39,19800,"(b)")
-mtext("Biomass (tons)",2, line=4, cex=0.75)
+axis(1, cex.lab=1.3, 
+     at=seq(1980,2010,10)-1975+0.5, labels=seq(1980,2010,10), cex.axis=1.3)
+text(32,10200,
+     cex=1.3,
+     "(b)")
+mtext("Biomass consumed (tons)",2, line=4.5, cex=1.)
 
 for(ji in 5:8)
 {
@@ -59,25 +70,33 @@ for(ji in 5:8)
           yaxs="i",
           las=1,
           xaxs="i",
+          cex.axis = 1.3,
+          cex.lab=1.3,
           ylim=c(0,9500),
           names.arg = rep("",length(1975:2015)),
           border=myCol,
           col=myCol,
   )
-  mtext("Biomass (tons)",2, line=4, cex=0.75)
-  axis(1, at=seq(1980,2010,10)-1975+0.5, labels=seq(1980,2010,10), cex.axis=1.3)
-  text(39,9000,paste("(",letters[ji-2],")"))
+  mtext("Biomass consumed (tons)",2, line=4.5, cex=1.)
+  
+  axis(1, cex.lab=1.3, 
+       at=seq(1980,2010,10)-1975+0.5, labels=seq(1980,2010,10), cex.axis=1.3)
+  text(39,9000,
+       cex=1.3,
+       paste("(",letters[ji-2],")"))
   if(ji==5){
     legend(5,8000, 
            legend=areaNames[1:4],
            bty="n",
            pch=15,
+           cex=1.3,
            pt.cex=1.5,
            col=myCol[1:4])
-    legend(15,8000, 
+    legend(17,8000, 
            legend=areaNames[5:8],
            bty="n",
            pch=15,
+           cex=1.3,
            pt.cex=1.5,
            col=myCol[5:8])
     

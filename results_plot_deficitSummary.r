@@ -69,7 +69,7 @@ text(max(1:8-0.5 + 0.25*1:8)*0.8, 101,paste("(", letters[3], ")"))
 
 mtext("Deficit (millions)", 2, line=4)
 
-xx = apply(DefC_phjromyta[,,5,,,,,,1], c(6,7), sum)
+xx = apply(DefC_phjromyta[,,,,,,,,], c(7,8), sum)
 xx = abs(xx)/rowSums(abs(xx))
 
 matplot(1:nYear + 1969, 
